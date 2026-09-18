@@ -1,0 +1,3568 @@
+{
+  "updated_at": "2026-09-18T20:05:54.335910+09:00",
+  "updated_at_display": "2026/09/18 20:05:54 (JST)",
+  "counts": {
+    "hololive": 134,
+    "nijisanji": 209,
+    "vspo": 12,
+    "total": 355
+  },
+  "schedules": {
+    "nijisanji": [
+      {
+        "date": "2026/09/17",
+        "time": "00:00",
+        "is_live": false,
+        "member": "弦月 藤士郎 / Genzuki Tojiro【にじさんじ】",
+        "title": "⋙HER TREES ⋮❙⋮ 夜チルパズル。 ⋮❙⋮ 弦月藤士郎 / にじさんじ ⋘",
+        "url": "https://www.youtube.com/watch?v=5k814eZQDpU",
+        "thumbnail": "https://i.ytimg.com/vi/5k814eZQDpU/maxresdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/17",
+        "time": "00:00",
+        "is_live": false,
+        "member": "葉山舞鈴 / Ohayama Ch.",
+        "title": "#04【 KINGDOM HEARTS II FINAL MIX 】完全初見🔑王覇山、再び世界を巡る冒険へ。（ 別々の心がとけあう時、もう一度その手はつながれる ）【 にじさんじ┊︎葉山舞鈴 】",
+        "url": "https://www.youtube.com/watch?v=AoeOSBaUh3A",
+        "thumbnail": "https://i.ytimg.com/vi/AoeOSBaUh3A/maxresdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/17",
+        "time": "00:00",
+        "is_live": false,
+        "member": "猫屋敷美紅 / Nekoyashiki Miku【にじさんじ】",
+        "title": "✧︎* 深夜ラジオ┊2026年9月17日(木)のにゃるらじ🌙〖猫屋敷美紅 / にじさんじ〗",
+        "url": "https://www.youtube.com/watch?v=zCqId_qchRo",
+        "thumbnail": "https://i.ytimg.com/vi/zCqId_qchRo/maxresdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/17",
+        "time": "00:47",
+        "is_live": false,
+        "member": "塚原大地",
+        "title": "【OW】今日の俺は一味も二味も違うぜ ランクマシルバー１【にじさんじ / 塚原大地】",
+        "url": "https://www.twitch.tv/videos/2875757716",
+        "thumbnail": null,
+        "platform": "twitch"
+      },
+      {
+        "date": "2026/09/17",
+        "time": "02:36",
+        "is_live": false,
+        "member": "叶",
+        "title": "一人で赴く。4",
+        "url": "https://www.twitch.tv/videos/2875841480",
+        "thumbnail": null,
+        "platform": "twitch"
+      },
+      {
+        "date": "2026/09/17",
+        "time": "05:00",
+        "is_live": false,
+        "member": "不破 湊 / Fuwa Minato【にじさんじ】",
+        "title": "【APEX】完　全　初　見【不破湊/にじさんじ】",
+        "url": "https://www.youtube.com/watch?v=cKcY15DV28k",
+        "thumbnail": "https://i.ytimg.com/vi/cKcY15DV28k/maxresdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/17",
+        "time": "05:00",
+        "is_live": false,
+        "member": "Elira Pendora 【NIJISANJI EN】",
+        "title": "【FIELDS OF MISTRIA】 end of the 1st year? many more hearts incoming? 【NIJISANJI EN | Elira Pendora】",
+        "url": "https://www.youtube.com/watch?v=8osAb0SCxS0",
+        "thumbnail": "https://i.ytimg.com/vi/8osAb0SCxS0/maxresdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/17",
+        "time": "07:00",
+        "is_live": false,
+        "member": "鏑木ろこ / Kaburaki Roco【にじさんじ】",
+        "title": "【 おはろこ！】なんかやっぱり水とかっていっぱい飲んだほうがいいらしい【 鏑木ろこ￤にじさんじ 】",
+        "url": "https://www.youtube.com/watch?v=nnljudW0dX4",
+        "thumbnail": "https://i.ytimg.com/vi/nnljudW0dX4/maxresdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/17",
+        "time": "07:00",
+        "is_live": false,
+        "member": "Finana Ryugu 【NIJISANJI EN】",
+        "title": "【Marvel Rivals】 OK LET'S TRY AGAIN !!! 「Competitive」",
+        "url": "https://www.youtube.com/watch?v=awYa1jHpFyc",
+        "thumbnail": "https://i.ytimg.com/vi/awYa1jHpFyc/maxresdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/17",
+        "time": "07:10",
+        "is_live": false,
+        "member": "小柳ロウ / Koyanagi Rou【にじさんじ】",
+        "title": "【VALORANT】デュエ【小柳ロウ/にじさんじ】",
+        "url": "https://www.youtube.com/watch?v=stRYPu2u6kE",
+        "thumbnail": "https://i.ytimg.com/vi/stRYPu2u6kE/maxresdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/17",
+        "time": "07:30",
+        "is_live": false,
+        "member": "加賀美 ハヤト/Hayato Kagami",
+        "title": "【#にじ遊戯王祭2026】　お　は　マ　リ　ス　【にじさんじ/加賀美ハヤト】",
+        "url": "https://www.youtube.com/watch?v=kRF2iVbP41Y",
+        "thumbnail": "https://i.ytimg.com/vi/kRF2iVbP41Y/maxresdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/17",
+        "time": "08:30",
+        "is_live": false,
+        "member": "Aia Amare 【NIJISANJI EN】",
+        "title": "DOING WHATEVER CHAT WANTS HMPH!",
+        "url": "https://www.youtube.com/watch?v=TJyX-k4uDwE",
+        "thumbnail": "https://i.ytimg.com/vi/TJyX-k4uDwE/maxresdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/17",
+        "time": "08:55",
+        "is_live": false,
+        "member": "ジール・ギンジョウカ",
+        "title": "too much strawberry jam",
+        "url": "https://www.twitch.tv/videos/2876132609",
+        "thumbnail": null,
+        "platform": "twitch"
+      },
+      {
+        "date": "2026/09/17",
+        "time": "10:00",
+        "is_live": false,
+        "member": "Ver Vermillion【NIJISANJI EN】",
+        "title": "OPENING Pokémon 30th Anniversary Celebration ETB and MORE! (※INSANE PULL RATES!)",
+        "url": "https://www.youtube.com/watch?v=lvBpwF8TrHc",
+        "thumbnail": "https://i.ytimg.com/vi/lvBpwF8TrHc/maxresdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/17",
+        "time": "10:00",
+        "is_live": false,
+        "member": "Millie Parfait【NIJISANJI EN】",
+        "title": "【BALDUR'S GATE 3】JIRVANA CHRONICLE'S #3",
+        "url": "https://www.youtube.com/watch?v=PH9nNFcPHN0",
+        "thumbnail": "https://i.ytimg.com/vi/PH9nNFcPHN0/maxresdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/17",
+        "time": "10:00",
+        "is_live": false,
+        "member": "Yu Q. Wilson 【NIJISANJI EN】",
+        "title": "【BALDUR'S GATE 3】I DON'T KNOW WHAT'S WRONG WITH ME【NIJISANJI EN | Yu Q. Wilson】",
+        "url": "https://www.youtube.com/watch?v=-8skzxHyfpc",
+        "thumbnail": "https://i.ytimg.com/vi/-8skzxHyfpc/maxresdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/17",
+        "time": "10:00",
+        "is_live": false,
+        "member": "Elira Pendora 【NIJISANJI EN】",
+        "title": "【BALDUR'S GATE 3】 more Jirvana! KARLACH I WANT YOU 【NIJISANJI EN | Elira Pendora】",
+        "url": "https://www.youtube.com/watch?v=WIbk4ofP4Z0",
+        "thumbnail": "https://i.ytimg.com/vi/WIbk4ofP4Z0/maxresdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/17",
+        "time": "10:00",
+        "is_live": false,
+        "member": "Enna Alouette【NIJISANJI EN】",
+        "title": "【BALDUR'S GATE 3 (PART III)】w/ Wilson, Millie & Elira !!【NIJISANJI EN | Enna Alouette】",
+        "url": "https://www.youtube.com/watch?v=SJ1BaaO8WaM",
+        "thumbnail": "https://i.ytimg.com/vi/SJ1BaaO8WaM/maxresdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/17",
+        "time": "11:00",
+        "is_live": false,
+        "member": "Uki Violeta 【NIJISANJI EN】",
+        "title": "【​​浮奇喫茶でおしゃべり】my body is still so sore ☕",
+        "url": "https://www.youtube.com/watch?v=ugxFHBNKKFM",
+        "thumbnail": "https://i.ytimg.com/vi/ugxFHBNKKFM/maxresdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/17",
+        "time": "11:00",
+        "is_live": false,
+        "member": "Scarle Yonaguni 【NIJISANJI EN】",
+        "title": "I Try a Costco Hot Dog for the 1st time!🌭😡💢( I HATE HOT DOGS!)",
+        "url": "https://www.youtube.com/watch?v=QJdiJ0eDCJ8",
+        "thumbnail": "https://i.ytimg.com/vi/QJdiJ0eDCJ8/maxresdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/17",
+        "time": "12:00",
+        "is_live": false,
+        "member": "北小路ヒスイ / Kitakoji Hisui 【にじさんじ】",
+        "title": "【God Field】負けたら即終了 ゴッドフィールド8回目【北小路ヒスイ/にじさんじ】",
+        "url": "https://www.youtube.com/watch?v=A1mYgpgMOb4",
+        "thumbnail": "https://i.ytimg.com/vi/A1mYgpgMOb4/maxresdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/17",
+        "time": "12:00",
+        "is_live": false,
+        "member": "梢桃音 / Kozue Mone【にじさんじ】",
+        "title": "【食】はじめてのビリヤニ🍛🥄【にじさんじ/梢桃音】",
+        "url": "https://www.youtube.com/watch?v=qVQ7KOUpUSU",
+        "thumbnail": "https://i.ytimg.com/vi/qVQ7KOUpUSU/maxresdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/17",
+        "time": "12:00",
+        "is_live": false,
+        "member": "Sonny Brisko 【NIJISANJI EN】",
+        "title": "vtubing on the internet",
+        "url": "https://www.youtube.com/watch?v=nRzW4Z-inTo",
+        "thumbnail": "https://i.ytimg.com/vi/nRzW4Z-inTo/maxresdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/17",
+        "time": "12:30",
+        "is_live": false,
+        "member": "北小路ヒスイ / Kitakoji Hisui 【にじさんじ】",
+        "title": "【ほの暮しの庭】終盤なのかもしれない　※ネタバレあり【北小路ヒスイ/にじさんじ】",
+        "url": "https://www.youtube.com/watch?v=9x20qH_jRRQ",
+        "thumbnail": "https://i.ytimg.com/vi/9x20qH_jRRQ/maxresdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/17",
+        "time": "13:00",
+        "is_live": false,
+        "member": "レヴィ・エリファ-Levi Elipha-",
+        "title": "#12【ほの暮しの庭】いよいよ冬到来‼やばいことになったゾウ・・【にじさんじ/レヴィ・エリファ】※ネタバレあり",
+        "url": "https://www.youtube.com/watch?v=uLZNezftu_o",
+        "thumbnail": "https://i.ytimg.com/vi/uLZNezftu_o/maxresdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/17",
+        "time": "13:00",
+        "is_live": false,
+        "member": "千凛あゆむ / Senri Ayumu【にじさんじ】",
+        "title": "【 星のカービィ64 】クリスタル集め！真のエンドを見に行くよ～ ⟡.·【にじさんじ / 千凛あゆむ】",
+        "url": "https://www.youtube.com/watch?v=vLndvnur7UY",
+        "thumbnail": "https://i.ytimg.com/vi/vLndvnur7UY/maxresdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/17",
+        "time": "13:00",
+        "is_live": false,
+        "member": "神田笑一 / Kanda Shoichi【 にじさんじ 】",
+        "title": "【 #1 FE万紫千紅 】 4人の戦士を導き、滅びゆく世界の救世主となれ 【 ファイアーエムブレム万紫千紅 / 神田笑一 / にじさんじ 】",
+        "url": "https://www.youtube.com/watch?v=cH2ia16Y68w",
+        "thumbnail": "https://i.ytimg.com/vi/cH2ia16Y68w/maxresdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/17",
+        "time": "13:30",
+        "is_live": false,
+        "member": "ソフィア・ヴァレンタイン / Sophia Valentine【にじさんじ】",
+        "title": "【お昼雑談】スコーンが食べたい午後【 ソフィア・ヴァレンタイン/にじさんじ 】",
+        "url": "https://www.youtube.com/watch?v=Ct6JLt9_-QM",
+        "thumbnail": "https://i.ytimg.com/vi/Ct6JLt9_-QM/maxresdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/17",
+        "time": "13:35",
+        "is_live": false,
+        "member": "Scarle Yonaguni 【NIJISANJI EN】",
+        "title": "I Got The Pokémon 30th Celebration Elite Trainer Box!!! LET'S OPEN IT TOGETHER!🥰❤️✨",
+        "url": "https://www.youtube.com/watch?v=yJo6KleHnZY",
+        "thumbnail": "https://i.ytimg.com/vi/yJo6KleHnZY/maxresdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/17",
+        "time": "14:30",
+        "is_live": false,
+        "member": "渚トラウト / Nagisa Trout【にじさんじ】",
+        "title": "【Minecraft】モダンとらぴと作る鮭【渚トラウト/にじさんじ】",
+        "url": "https://www.youtube.com/watch?v=sC2TNfv2Ars",
+        "thumbnail": "https://i.ytimg.com/vi/sC2TNfv2Ars/maxresdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/17",
+        "time": "15:00",
+        "is_live": false,
+        "member": "夢追翔のJUKE BOX",
+        "title": "＃2 またもう一度遊びたいんだ | ドンキーコング64【にじさんじ/夢追翔】",
+        "url": "https://www.youtube.com/watch?v=ZLFZaccUZh4",
+        "thumbnail": "https://i.ytimg.com/vi/ZLFZaccUZh4/maxresdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/17",
+        "time": "16:20",
+        "is_live": false,
+        "member": "Rei7【にじさんじ】",
+        "title": "【 スト6 】Mジュリ/D4~ / あ【 Rei7 / にじさんじ 】",
+        "url": "https://www.youtube.com/watch?v=WnGeInxxYoA",
+        "thumbnail": "https://i.ytimg.com/vi/WnGeInxxYoA/maxresdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/17",
+        "time": "17:00",
+        "is_live": false,
+        "member": "Shizuka Rin Official",
+        "title": "⛏️ 17 | マイクラでRPG❗️ | #えみクラ【静凛/にじさんじ】",
+        "url": "https://www.youtube.com/watch?v=Lz5KLnHwjQ4",
+        "thumbnail": "https://i.ytimg.com/vi/Lz5KLnHwjQ4/maxresdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/17",
+        "time": "17:10",
+        "is_live": false,
+        "member": "渋谷ハジメのはじめ支部",
+        "title": "【LoL】ちょっと疲れたので森林浴にきました。【にじさんじ/渋谷ハジメ】",
+        "url": "https://www.youtube.com/watch?v=2oBcPsdLJDw",
+        "thumbnail": "https://i.ytimg.com/vi/2oBcPsdLJDw/maxresdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/17",
+        "time": "18:00",
+        "is_live": false,
+        "member": "風楽奏斗 / Fura Kanato",
+        "title": "【 Deadlock 】　めｓｓｓｓっさ調整入って環境変わったっぽいので調査ランケド【にじさんじ/風楽奏斗】",
+        "url": "https://www.youtube.com/watch?v=HR7igr8yIKk",
+        "thumbnail": "https://i.ytimg.com/vi/HR7igr8yIKk/maxresdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/17",
+        "time": "18:00",
+        "is_live": false,
+        "member": "倉持めると / Kuramochi Meruto【にじさんじ】",
+        "title": "【だけ雑談】グミ大好きな倉持がおすすめ＆気になるグミ食べる「だけ」【倉持めると/にじさんじ】",
+        "url": "https://www.youtube.com/watch?v=PXygyQSEyJE",
+        "thumbnail": "https://i.ytimg.com/vi/PXygyQSEyJE/maxresdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/17",
+        "time": "18:00",
+        "is_live": false,
+        "member": "山田龍一郎 / Yamada Ryuichiro【にじさんじ】",
+        "title": "【あつまれどうぶつの森 #3】「効率人間」がスローライフゲームをやるとこうなる【にじさんじ / 山田龍一郎】",
+        "url": "https://www.youtube.com/watch?v=qUsIubbA9uc",
+        "thumbnail": "https://i.ytimg.com/vi/qUsIubbA9uc/maxresdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/17",
+        "time": "19:00",
+        "is_live": false,
+        "member": "渡会雲雀 / Watarai Hibari",
+        "title": "【APEX】時代はエペなのか！！ w/ひー３、テン３【渡会雲雀/にじさんじ】",
+        "url": "https://www.youtube.com/watch?v=Qlqh7JOlDvQ",
+        "thumbnail": "https://i.ytimg.com/vi/Qlqh7JOlDvQ/maxresdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/17",
+        "time": "19:00",
+        "is_live": false,
+        "member": "渚トラウト / Nagisa Trout【にじさんじ】",
+        "title": "【Don't Drop The Cake】今日はホール業務ってことですか？【渚トラウト/にじさんじ】",
+        "url": "https://www.youtube.com/watch?v=pidZAoXuUic",
+        "thumbnail": "https://i.ytimg.com/vi/pidZAoXuUic/maxresdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/17",
+        "time": "19:00",
+        "is_live": false,
+        "member": "える / Elu【にじさんじ】",
+        "title": "【 妹に運転を教える 】父さんはな、車は乗れんが、地域の一輪車教室の優等生だったんだぞ。【にじさんじ/える】",
+        "url": "https://www.youtube.com/watch?v=iAeBMW8hgvI",
+        "thumbnail": "https://i.ytimg.com/vi/iAeBMW8hgvI/maxresdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/17",
+        "time": "19:00",
+        "is_live": false,
+        "member": "桜凛月",
+        "title": "【minecraft】竜宮城 までの道を整備して観光客を増やそう！【にじさんじ/桜凛月】",
+        "url": "https://www.youtube.com/watch?v=Q0t_VSvqMzg",
+        "thumbnail": "https://i.ytimg.com/vi/Q0t_VSvqMzg/maxresdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/17",
+        "time": "19:00",
+        "is_live": false,
+        "member": "本間ひまわり - Himawari Honma -",
+        "title": "#01 ꒰LOST JUDGMENT：裁かれざる記憶꒱　キムタクが如く！舞台は横浜～～～⁉　˹ 本間ひまわり にじさんじ ˼　※ネタバレあり",
+        "url": "https://www.youtube.com/watch?v=yDLby_xxEhQ",
+        "thumbnail": "https://i.ytimg.com/vi/yDLby_xxEhQ/maxresdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/17",
+        "time": "19:00",
+        "is_live": false,
+        "member": "立伝都々 / Tachitsute Toto【にじさんじ】",
+        "title": "#11【テイルズ オブ ベルセリア】君が君らしく生きるためのRPG～どこまでもついてゆくぞ～【立伝都々/にじさんじ】",
+        "url": "https://www.youtube.com/watch?v=6C377KsilDM",
+        "thumbnail": "https://i.ytimg.com/vi/6C377KsilDM/maxresdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/17",
+        "time": "19:00",
+        "is_live": false,
+        "member": "椎名唯華 / Shiina Yuika",
+        "title": "#19 【 P5R 】人生初のペルソナ🎩！完全初見で『ペルソナ5 ザ・ロイヤル』やるぞおおおおおおおお※ネタバレあり【 椎名唯華/にじさんじ】",
+        "url": "https://www.youtube.com/watch?v=quiQFk3V7K8",
+        "thumbnail": "https://i.ytimg.com/vi/quiQFk3V7K8/maxresdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/17",
+        "time": "19:00",
+        "is_live": false,
+        "member": "すぷれあ",
+        "title": "【告知あり】#すぷれあ1周年 歌枠 🌟【にじさんじ／皇れお／篠宮ゆの／城瀬いすみ／花籠つばさ】",
+        "url": "https://www.youtube.com/watch?v=juYyTt1GAGs",
+        "thumbnail": "https://i.ytimg.com/vi/juYyTt1GAGs/maxresdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/17",
+        "time": "19:00",
+        "is_live": false,
+        "member": "ジョー・力一 Joe Rikiichi",
+        "title": "痛いの痛いの飛んでいけ/TOOBOE Covered by セラフ・ダズルガーデン＆ジョー・力一",
+        "url": "https://www.youtube.com/watch?v=xn7IfQf7yhE",
+        "thumbnail": "https://i.ytimg.com/vi/xn7IfQf7yhE/maxresdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/17",
+        "time": "19:00",
+        "is_live": false,
+        "member": "今宵、××と夢を見る。",
+        "title": "【オフコラボ】1周年のもろもろ振り返り✨【にじさんじ/蝸堂みかる/夜牛詩乃/十河ののは/猫屋敷美紅】",
+        "url": "https://www.youtube.com/watch?v=YXatNQhrx7Y",
+        "thumbnail": "https://i.ytimg.com/vi/YXatNQhrx7Y/maxresdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/17",
+        "time": "19:00",
+        "is_live": false,
+        "member": "宇佐美リト / Usami Rito【にじさんじ】",
+        "title": "【#にじユーフィット】uFitパワーが足りないだって！？【宇佐美リト/にじさんじ】",
+        "url": "https://www.youtube.com/watch?v=5incWr-EYl0",
+        "thumbnail": "https://i.ytimg.com/vi/5incWr-EYl0/maxresdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/17",
+        "time": "20:00",
+        "is_live": false,
+        "member": "雲母たまこ / Kirara Tamako【にじさんじ】",
+        "title": "𓊆 雑談 𓊇 プリプリエビプリオ(言えてる)食べる♡ 𓊆 雲母たまこ ┊ にじさんじ 𓊇",
+        "url": "https://www.youtube.com/watch?v=I_Y3_vwF79U",
+        "thumbnail": "https://i.ytimg.com/vi/I_Y3_vwF79U/maxresdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/17",
+        "time": "20:00",
+        "is_live": false,
+        "member": "長尾 景 / Nagao Kei【にじさんじ】",
+        "title": "【#にじ遊戯王祭2026】予選デッキぶつかり稽古【長尾景/にじさんじ】",
+        "url": "https://www.youtube.com/watch?v=juISICmvmJI",
+        "thumbnail": "https://i.ytimg.com/vi/juISICmvmJI/maxresdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/17",
+        "time": "20:00",
+        "is_live": false,
+        "member": "Yuhi Riri Official",
+        "title": "▶︎▷ Don't Drop The Cake｜ ケーキを落とさずに運ぶホラーゲーム？ ｜ 夕陽リリ ￤ にじさんじ",
+        "url": "https://www.youtube.com/watch?v=O8KlE9Pm2_I",
+        "thumbnail": "https://i.ytimg.com/vi/O8KlE9Pm2_I/maxresdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/17",
+        "time": "20:00",
+        "is_live": false,
+        "member": "塚原大地 / Tsukahara Daichi【にじさんじ】",
+        "title": "【How to Fish】カオス釣りゲー！？ with 北見先輩、夜見先輩、魔使先輩【塚原大地 / にじさんじ】",
+        "url": "https://www.youtube.com/watch?v=R1sUSnpuZIs",
+        "thumbnail": "https://i.ytimg.com/vi/R1sUSnpuZIs/maxresdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/17",
+        "time": "20:00",
+        "is_live": false,
+        "member": "北見遊征 / Kitami Yusei【にじさんじ】",
+        "title": "【How to Fish】激しめの魚釣りWith夜見さん 、魔使さん、大地【北見遊征/にじさんじ】",
+        "url": "https://www.youtube.com/watch?v=ljzw4Oyu9fg",
+        "thumbnail": "https://i.ytimg.com/vi/ljzw4Oyu9fg/maxresdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/17",
+        "time": "20:00",
+        "is_live": false,
+        "member": "夜見れな/yorumi rena【にじさんじ所属】",
+        "title": "【 How to Fish 】 今日は釣りをする日です。さて、餌になるのは誰ですか？【 にじさんじ / 夜見れな 】",
+        "url": "https://www.youtube.com/watch?v=BrHV2sNRY0Q",
+        "thumbnail": "https://i.ytimg.com/vi/BrHV2sNRY0Q/maxresdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/17",
+        "time": "20:00",
+        "is_live": false,
+        "member": "早乙女 ベリー / Saotome Berry【にじさんじ】",
+        "title": "【妹に運転を教える】免許無いけどお姉ちゃん一生懸命教えるね！！！【早乙女ベリー/にじさんじ】",
+        "url": "https://www.youtube.com/watch?v=fuoSwe03DAU",
+        "thumbnail": "https://i.ytimg.com/vi/fuoSwe03DAU/maxresdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/17",
+        "time": "20:00",
+        "is_live": false,
+        "member": "魔使マオ -matsukai mao-",
+        "title": "┊How to Fish┊バズってる💦友達と釣りゲーム【魔使マオ/夜見れな/北見遊征/塚原大地/にじさんじ】",
+        "url": "https://www.youtube.com/watch?v=h1ovSMUYlfU",
+        "thumbnail": "https://i.ytimg.com/vi/h1ovSMUYlfU/maxresdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/17",
+        "time": "20:00",
+        "is_live": false,
+        "member": "山神 カルタ / Karuta Yamagami",
+        "title": "【#にじ遊戯王祭2026】ﾑｼｬ･･･ﾑｼｬ･･･ﾓｸﾞ･･･ﾓｸﾞ😄🪴【にじさんじ/山神カルタ】",
+        "url": "https://www.youtube.com/watch?v=bVCeSO6RP9E",
+        "thumbnail": "https://i.ytimg.com/vi/bVCeSO6RP9E/maxresdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/17",
+        "time": "20:00",
+        "is_live": false,
+        "member": "リゼ・ヘルエスタ -Lize Helesta-",
+        "title": "【P5R/ペルソナ5 ザ・ロイヤル】奪え、その意志で。#10【にじさんじ/リゼ・ヘルエスタ】※ネタバレ注意",
+        "url": "https://www.youtube.com/watch?v=QyuRdbJnPZ4",
+        "thumbnail": "https://i.ytimg.com/vi/QyuRdbJnPZ4/maxresdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/17",
+        "time": "20:00",
+        "is_live": false,
+        "member": "Alban Knox 【NIJISANJI EN】",
+        "title": "【 Touhou Koumakyou: 東方紅魔郷 New Classic 】BEGINNER AT TOUHOU! 【 NIJISANJI EN | Alban Knox 】",
+        "url": "https://www.youtube.com/watch?v=OY5rwPxwAgQ",
+        "thumbnail": "https://i.ytimg.com/vi/OY5rwPxwAgQ/maxresdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/17",
+        "time": "20:00",
+        "is_live": false,
+        "member": "珠乃井ナナ / Tamanoi Nana【にじさんじ】",
+        "title": "【 歌枠 】夜にゆったりと聴きたい曲、歌っていきます。【にじさんじ / 珠乃井ナナ】",
+        "url": "https://www.youtube.com/watch?v=fzX8l0ZIu9k",
+        "thumbnail": "https://i.ytimg.com/vi/fzX8l0ZIu9k/maxresdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/17",
+        "time": "20:00",
+        "is_live": false,
+        "member": "にじさんじ",
+        "title": "【美術館ロケも】生配信でクイズ決戦！にじクイ秋の陣〜2026〜【#にじクイ #65】",
+        "url": "https://www.youtube.com/watch?v=BeuDqZ-sj2E",
+        "thumbnail": "https://i.ytimg.com/vi/BeuDqZ-sj2E/maxresdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/17",
+        "time": "20:30",
+        "is_live": false,
+        "member": "イブラヒム【にじさんじ】",
+        "title": "【WARDOGS】勝ち終わwith葛葉,k4sen【にじさんじ/イブラヒム】",
+        "url": "https://www.youtube.com/watch?v=A9U1N9Ph6bA",
+        "thumbnail": "https://i.ytimg.com/vi/A9U1N9Ph6bA/maxresdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/17",
+        "time": "20:55",
+        "is_live": false,
+        "member": "Kanae Channel",
+        "title": "#14 これがラストピックになるかもしれないだろ。  | #SURGETown【にじさんじ/叶】",
+        "url": "https://www.youtube.com/watch?v=D4_we-rFERY",
+        "thumbnail": "https://i.ytimg.com/vi/D4_we-rFERY/maxresdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/17",
+        "time": "20:55",
+        "is_live": false,
+        "member": "Kuzuha Channel",
+        "title": "【犬の洗浄】勝ちおわトリマー【かせん、いぶせん】",
+        "url": "https://www.youtube.com/watch?v=DiH1ocRzya0",
+        "thumbnail": "https://i.ytimg.com/vi/DiH1ocRzya0/maxresdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/17",
+        "time": "21:00",
+        "is_live": false,
+        "member": "七瀬 すず菜 / Nanase Suzuna【にじさんじ】",
+        "title": "【 #にじ遊戯王祭2026 】視聴者参加型✨とにかく身体にしみ込ませる！！！【七瀬すず菜/にじさんじ】",
+        "url": "https://www.youtube.com/watch?v=CvEUqzXOpTM",
+        "thumbnail": "https://i.ytimg.com/vi/CvEUqzXOpTM/maxresdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/17",
+        "time": "21:00",
+        "is_live": false,
+        "member": "町田ちま【にじさんじ】",
+        "title": "【狂い咲き】不気味な住民と不可解な現象【にじさんじ/町田ちま】",
+        "url": "https://www.youtube.com/watch?v=JTwc4Zb0ALs",
+        "thumbnail": "https://i.ytimg.com/vi/JTwc4Zb0ALs/maxresdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/17",
+        "time": "21:00",
+        "is_live": false,
+        "member": "社築",
+        "title": "【遊戯王マスターデュエル　#にじ遊戯王祭2026】えらいハリキリ☆チームが顔合わせじゃねぇか【にじさんじ/社築】",
+        "url": "https://www.youtube.com/watch?v=b-V4x8HPkjo",
+        "thumbnail": "https://i.ytimg.com/vi/b-V4x8HPkjo/maxresdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/17",
+        "time": "21:00",
+        "is_live": false,
+        "member": "獅子堂 あかり / Shishido Akari【にじさんじ】",
+        "title": "【  #にじ遊戯王祭2026  】チーム４！顔合わせ！⇒居残り練リスナー参加型【にじさんじ/獅子堂あかり】",
+        "url": "https://www.youtube.com/watch?v=G221wBapmfM",
+        "thumbnail": "https://i.ytimg.com/vi/G221wBapmfM/maxresdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/17",
+        "time": "21:00",
+        "is_live": false,
+        "member": "倉持めると / Kuramochi Meruto【にじさんじ】",
+        "title": "【ゼルダの伝説 ティアーズ オブ ザ キングダム】#25 ｺｺ完全初見🔰広いこの世界で石碑を10基探します【倉持めると/にじさんじ】",
+        "url": "https://www.youtube.com/watch?v=Yz6u7De_6Sw",
+        "thumbnail": "https://i.ytimg.com/vi/Yz6u7De_6Sw/maxresdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/17",
+        "time": "21:00",
+        "is_live": false,
+        "member": "赤城ウェン / Akagi Wen【にじさんじ】",
+        "title": "【マイクラ】ハードコア系ロスってるのでいくぞ！鉄装備でいける？【にじさんじ / 赤城ウェン】",
+        "url": "https://www.youtube.com/watch?v=ze1oSMhVRSk",
+        "thumbnail": "https://i.ytimg.com/vi/ze1oSMhVRSk/maxresdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/17",
+        "time": "21:00",
+        "is_live": false,
+        "member": "梢桃音 / Kozue Mone【にじさんじ】",
+        "title": "【#にじ遊戯王祭2026】チーム4顔合わせ！【梢桃音/にじさんじ】",
+        "url": "https://www.youtube.com/watch?v=n3NPHVx15mA",
+        "thumbnail": "https://i.ytimg.com/vi/n3NPHVx15mA/maxresdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/17",
+        "time": "21:00",
+        "is_live": false,
+        "member": "五木左京 / Itsuki Sakyo【にじさんじ】",
+        "title": "【 ツイステ 】6章-1｜完全初見！D好き営業監督生とヴィランズの魂を持つ生徒たちの邂逅【にじさんじ / 五木左京】",
+        "url": "https://www.youtube.com/watch?v=AF9_kVyuOSU",
+        "thumbnail": "https://i.ytimg.com/vi/AF9_kVyuOSU/maxresdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/17",
+        "time": "21:00",
+        "is_live": false,
+        "member": "Vezalius Bandage 【NIJISANJI EN】",
+        "title": "【OneShot】Going through the true ending! FINALE【NIJISANJI EN | Vezalius Bandage】",
+        "url": "https://www.youtube.com/watch?v=xFxyIk2aHqE",
+        "thumbnail": "https://i.ytimg.com/vi/xFxyIk2aHqE/maxresdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/17",
+        "time": "21:00",
+        "is_live": false,
+        "member": "一橋綾人 / Hitotsubashi Ayato【にじさんじ】",
+        "title": "【あれこれ】時間とは何か with ミラン先輩【一橋綾人/にじさんじ】",
+        "url": "https://www.youtube.com/watch?v=sR6sIoWf-4o",
+        "thumbnail": "https://i.ytimg.com/vi/sR6sIoWf-4o/maxresdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/17",
+        "time": "21:05",
+        "is_live": false,
+        "member": "ローレン・イロアス / Lauren Iroas【にじさんじ】",
+        "title": "【APEX】めっちゃボコるAPEX /w じゃす しす【ローレン・イロアス/にじさんじ】",
+        "url": "https://www.youtube.com/watch?v=bY33v9PBp4E",
+        "thumbnail": "https://i.ytimg.com/vi/bY33v9PBp4E/maxresdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/17",
+        "time": "21:30",
+        "is_live": false,
+        "member": "九里詠太 / Kuri Eita【にじさんじ】",
+        "title": "【スト6】対空出ない毎に即罰金！？~18000円から~【九里詠太 / にじさんじ】",
+        "url": "https://www.youtube.com/watch?v=_BRHdF4wc1s",
+        "thumbnail": "https://i.ytimg.com/vi/_BRHdF4wc1s/maxresdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/17",
+        "time": "21:30",
+        "is_live": false,
+        "member": "神永タイガ / Kaminaga Taiga【にじさんじ】",
+        "title": "【リズム天国#２】チョッパチョッ...パッ！～音大生が挑む2回目のリズ天～　# ０１【神永タイガ / にじさんじ】",
+        "url": "https://www.youtube.com/watch?v=DJR-8LPNzls",
+        "thumbnail": "https://i.ytimg.com/vi/DJR-8LPNzls/maxresdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/17",
+        "time": "21:45",
+        "is_live": false,
+        "member": "エクス・アルビオ -Ex Albio-",
+        "title": "スプーン1本で穴掘ってトンネル繋げて刑務所から絶対に脱獄するゲーム『 Prison Escape Simulator 』＃2【 エビオ/にじさんじ 】",
+        "url": "https://www.youtube.com/watch?v=m1bBW1fc1Dw",
+        "thumbnail": "https://i.ytimg.com/vi/m1bBW1fc1Dw/maxresdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/17",
+        "time": "22:00",
+        "is_live": false,
+        "member": "フレン・E・ルスタリオ",
+        "title": "たんぽぽ！！ここは私にまかせて先に行け！！【にじさんじ】",
+        "url": "https://www.youtube.com/watch?v=g3NaoS7J1D0",
+        "thumbnail": "https://i.ytimg.com/vi/g3NaoS7J1D0/maxresdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/17",
+        "time": "22:00",
+        "is_live": false,
+        "member": "雪城眞尋/Yukishiro Mahiro【にじさんじ所属】",
+        "title": "【#にじ遊戯王祭2026】視聴者参加◎もう1週間もないんですけど!?【雪城眞尋/にじさんじ】",
+        "url": "https://www.youtube.com/watch?v=1J4awfMk9Cg",
+        "thumbnail": "https://i.ytimg.com/vi/1J4awfMk9Cg/maxresdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/17",
+        "time": "22:00",
+        "is_live": false,
+        "member": "轟京子/kyoko todoroki【にじさんじ】",
+        "title": "【 🎮パラノマサイト FILE23 本所七不思議 / #3 】コックリさんなんかチャレンジしてみちゃうホラーミステリー※ネタバレあり 【にじさんじ/轟京子】",
+        "url": "https://www.youtube.com/watch?v=Av7tWZ9iAB4",
+        "thumbnail": "https://i.ytimg.com/vi/Av7tWZ9iAB4/maxresdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/17",
+        "time": "22:00",
+        "is_live": false,
+        "member": "御子神琴音 / Mikogami Kotone【にじさんじ】",
+        "title": "【雑談】御子神琴音、扁桃炎からの復活。【御子神琴音 / にじさんじ】",
+        "url": "https://www.youtube.com/watch?v=ZHcOhCHW1BY",
+        "thumbnail": "https://i.ytimg.com/vi/ZHcOhCHW1BY/maxresdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/17",
+        "time": "22:00",
+        "is_live": false,
+        "member": "加賀美 ハヤト/Hayato Kagami",
+        "title": "【#にじ遊戯王祭2026】チーム５顔合わせ！練習あるのみ！！【にじさんじ/加賀美ハヤト】",
+        "url": "https://www.youtube.com/watch?v=K-hKEYz-Yes",
+        "thumbnail": "https://i.ytimg.com/vi/K-hKEYz-Yes/maxresdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/17",
+        "time": "22:00",
+        "is_live": false,
+        "member": "緋八マナ / Hibachi Mana【にじさんじ】",
+        "title": "【なんか】何かしらやる枠【にじさんじ/緋八マナ】",
+        "url": "https://www.youtube.com/watch?v=ijfWZ0amHjU",
+        "thumbnail": "https://i.ytimg.com/vi/ijfWZ0amHjU/maxresdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/17",
+        "time": "22:00",
+        "is_live": false,
+        "member": "天宮 こころ / Amamya Ch.",
+        "title": "✯┊ #にじ遊戯王祭2026┊社長とほちとみゃ〖 天宮こころ / 加賀美ハヤト/星川サラ〗",
+        "url": "https://www.youtube.com/watch?v=FqNOcxgTGUo",
+        "thumbnail": "https://i.ytimg.com/vi/FqNOcxgTGUo/maxresdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/17",
+        "time": "22:05",
+        "is_live": false,
+        "member": "Doppio Dropscythe【NIJISANJI EN】",
+        "title": "[FIRE EMBLEM FORTUNE'S WEAVE / 万紫千紅] PART 1【NIJISANJI EN | Doppio Dropscythe】",
+        "url": "https://www.youtube.com/watch?v=6cgHDPYE7_Q",
+        "thumbnail": "https://i.ytimg.com/vi/6cgHDPYE7_Q/maxresdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/17",
+        "time": "22:45",
+        "is_live": false,
+        "member": "星川サラ / Sara Hoshikawa",
+        "title": "【#にじ遊戯王祭2026】チーム顔合わせだ～～～！！！【星川サラ/にじさんじ】",
+        "url": "https://www.youtube.com/watch?v=2YqrfBOvSU4",
+        "thumbnail": "https://i.ytimg.com/vi/2YqrfBOvSU4/maxresdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/17",
+        "time": "22:45",
+        "is_live": false,
+        "member": "宇佐美リト / Usami Rito【にじさんじ】",
+        "title": "【トルネコの大冒険】完全初見！俺はこの日を待ちわびていた！！！【宇佐美リト/にじさんじ】",
+        "url": "https://www.youtube.com/watch?v=vTKZE2jGbOo",
+        "thumbnail": "https://i.ytimg.com/vi/vTKZE2jGbOo/maxresdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/17",
+        "time": "23:00",
+        "is_live": false,
+        "member": "イ・ロハ / LeeRoha【にじさんじ】",
+        "title": "ブロンズ脱出記に見えちゃうじゃん？【360°違うよ〙　[にじさんじ/イロハ]",
+        "url": "https://www.youtube.com/watch?v=VNbkAdIeUqk",
+        "thumbnail": "https://i.ytimg.com/vi/VNbkAdIeUqk/maxresdefault_live.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/17",
+        "time": "23:30",
+        "is_live": false,
+        "member": "佐伯イッテツ / Saiki Ittetsu【にじさんじ】",
+        "title": "ワルプってる？【にじさんじ／佐伯イッテツ】",
+        "url": "https://www.youtube.com/watch?v=fY7H5DiNXEI",
+        "thumbnail": "https://i.ytimg.com/vi/fY7H5DiNXEI/maxresdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/17",
+        "time": "23:30",
+        "is_live": false,
+        "member": "魔界ノりりむ",
+        "title": "〖雑談〗サキュバスVTuberとお話ししよ♡〖にじさんじ￤魔界ノりりむ〗",
+        "url": "https://www.youtube.com/watch?v=gnYTFg0R4KY",
+        "thumbnail": "https://i.ytimg.com/vi/gnYTFg0R4KY/maxresdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/17",
+        "time": "23:30",
+        "is_live": false,
+        "member": "鈴原るる【にじさんじ所属】",
+        "title": "【ドンキーコングランド】クリアまで！SFCより難しい？！ゲームボーイ版！あそぼおおおおおおおッ！！！！！！　【にじさんじ/鈴原るる】",
+        "url": "https://www.youtube.com/watch?v=0tfu_FjhZAw",
+        "thumbnail": "https://i.ytimg.com/vi/0tfu_FjhZAw/maxresdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/17",
+        "time": "23:30",
+        "is_live": false,
+        "member": "司賀りこ / Shiga Riko【にじさんじ】",
+        "title": "睡眠導入🎧疲れた君を癒したいASMR💛【司賀りこ/にじさんじ】",
+        "url": "https://www.youtube.com/watch?v=OCKIPMedoNw",
+        "thumbnail": "https://i.ytimg.com/vi/OCKIPMedoNw/maxresdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/17",
+        "time": "23:45",
+        "is_live": false,
+        "member": "Meloco Kyoran【NIJISANJI EN】",
+        "title": "【龍が如く7￤Like a Dragon】IKZ 最終回 春日一番幸せになれ【NIJISANJI EN￤Meloco Kyoran】",
+        "url": "https://www.youtube.com/watch?v=f3WxWFkfZ9s",
+        "thumbnail": "https://i.ytimg.com/vi/f3WxWFkfZ9s/maxresdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/18",
+        "time": "00:00",
+        "is_live": false,
+        "member": "葉山舞鈴 / Ohayama Ch.",
+        "title": "【 KINGDOM HEARTS II FINAL MIX 】終盤戦？！完全初見🔑王覇山、再び世界を巡る冒険へ。（ 別々の心がとけあう時、もう一度その手はつながれる ）【 にじさんじ┊︎葉山舞鈴 】",
+        "url": "https://www.youtube.com/watch?v=p9X7lf1TNMw",
+        "thumbnail": "https://i.ytimg.com/vi/p9X7lf1TNMw/maxresdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/18",
+        "time": "00:00",
+        "is_live": false,
+        "member": "猫屋敷美紅 / Nekoyashiki Miku【にじさんじ】",
+        "title": "✧︎* 深夜ラジオ┊2026年9月18日(金)のにゃるらじ🌙〖猫屋敷美紅 / にじさんじ〗",
+        "url": "https://www.youtube.com/watch?v=_lmFrnIJQ7M",
+        "thumbnail": "https://i.ytimg.com/vi/_lmFrnIJQ7M/maxresdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/18",
+        "time": "00:15",
+        "is_live": false,
+        "member": "アルス・アルマル -ars almal- 【にじさんじ】",
+        "title": "＃07【ゼルダの伝説 ムジュラの仮面】完全初見プレイ♦ 谷エリア ♦【アルス・アルマル/にじさんじ】",
+        "url": "https://www.youtube.com/watch?v=QlYwrvIJiW0",
+        "thumbnail": "https://i.ytimg.com/vi/QlYwrvIJiW0/maxresdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/18",
+        "time": "04:00",
+        "is_live": false,
+        "member": "Scarle Yonaguni 【NIJISANJI EN】",
+        "title": "I AM VERY FERAL RIGHT NOW!!! AOIRGJMAWIORGJAIOWRGAOPERGMAERIOGMAEORIGMAERIOGAERETJAETHAER",
+        "url": "https://www.youtube.com/watch?v=V-QaoNzAu6o",
+        "thumbnail": "https://i.ytimg.com/vi/V-QaoNzAu6o/maxresdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/18",
+        "time": "06:30",
+        "is_live": false,
+        "member": "皇れお / Sumeragi Reo【にじさんじ】",
+        "title": "【 雑談 】2年目最初の朝活ってことおはよう！！！【 皇れお  / にじさんじ 】",
+        "url": "https://www.youtube.com/watch?v=ix8HhBNeHbU",
+        "thumbnail": "https://i.ytimg.com/vi/ix8HhBNeHbU/maxresdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/18",
+        "time": "06:45",
+        "is_live": false,
+        "member": "佐伯イッテツ / Saiki Ittetsu【にじさんじ】",
+        "title": "マギってる？【にじさんじ／佐伯イッテツ】",
+        "url": "https://www.youtube.com/watch?v=9kVCi0RNEOM",
+        "thumbnail": "https://i.ytimg.com/vi/9kVCi0RNEOM/maxresdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/18",
+        "time": "07:00",
+        "is_live": false,
+        "member": "小柳ロウ / Koyanagi Rou【にじさんじ】",
+        "title": "【VALORANT】本日も【小柳ロウ/にじさんじ】",
+        "url": "https://www.youtube.com/watch?v=LPEBkZX0a18",
+        "thumbnail": "https://i.ytimg.com/vi/LPEBkZX0a18/maxresdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/18",
+        "time": "07:00",
+        "is_live": false,
+        "member": "神永タイガ / Kaminaga Taiga【にじさんじ】",
+        "title": "【朝活#７】おはよう配信🍳～9月18日(金)～　# ０２【神永タイガ / にじさんじ】",
+        "url": "https://www.youtube.com/watch?v=ve--MeJsxE4",
+        "thumbnail": "https://i.ytimg.com/vi/ve--MeJsxE4/maxresdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/18",
+        "time": "07:00",
+        "is_live": false,
+        "member": "七瀬 すず菜 / Nanase Suzuna【にじさんじ】",
+        "title": "【朝活】おはすず9月18日（金）＃587【七瀬すず菜/にじさんじ】",
+        "url": "https://www.youtube.com/watch?v=OQB3yUbv9Uo",
+        "thumbnail": "https://i.ytimg.com/vi/OQB3yUbv9Uo/maxresdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/18",
+        "time": "07:01",
+        "is_live": false,
+        "member": "五木左京 / Itsuki Sakyo【にじさんじ】",
+        "title": "【 雑談 】おはようだけしに来てください【 にじさんじ / 五木左京 】",
+        "url": "https://www.youtube.com/watch?v=9wpDQ0JFw44",
+        "thumbnail": "https://i.ytimg.com/vi/9wpDQ0JFw44/maxresdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/18",
+        "time": "07:30",
+        "is_live": false,
+        "member": "オリバー・エバンス / Oliver Evans 【にじさんじ】",
+        "title": "【朝雑談】週末だ朝雑談【オリバー・エバンス/にじさんじ】",
+        "url": "https://www.youtube.com/watch?v=TH8r9aNkF0w",
+        "thumbnail": "https://i.ytimg.com/vi/TH8r9aNkF0w/maxresdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/18",
+        "time": "08:00",
+        "is_live": false,
+        "member": "Elira Pendora 【NIJISANJI EN】",
+        "title": "【FINAL FANTASY VII REMAKE INTERGRADE】 Cloud Strife... I'm here 【NIJISANJI EN | Elira Pendora】",
+        "url": "https://www.youtube.com/watch?v=sxkWTcxOWOU",
+        "thumbnail": "https://i.ytimg.com/vi/sxkWTcxOWOU/maxresdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/18",
+        "time": "08:30",
+        "is_live": false,
+        "member": "Aia Amare 【NIJISANJI EN】",
+        "title": "【WH40K MINI】 MY BIGGEST BUILT YET! BANEBLADE!",
+        "url": "https://www.youtube.com/watch?v=CUqWLXjfPPo",
+        "thumbnail": "https://i.ytimg.com/vi/CUqWLXjfPPo/maxresdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/18",
+        "time": "09:30",
+        "is_live": false,
+        "member": "Ryoma Barrenwort 【NIJISANJI EN】",
+        "title": "Hands off... that's a presy for Fusey | APEX Legends",
+        "url": "https://www.youtube.com/watch?v=YqXMdLAhzFc",
+        "thumbnail": "https://i.ytimg.com/vi/YqXMdLAhzFc/maxresdefault_live.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/18",
+        "time": "09:30",
+        "is_live": false,
+        "member": "鷹宮リオン / Rion Takamiya",
+        "title": "【雑談/talk】朝活成功の世界線、ダウナーな鷹宮とチルい曲(Chill MIX)【にじさんじ/鷹宮リオン】",
+        "url": "https://www.youtube.com/watch?v=c79VPEFMJu0",
+        "thumbnail": "https://i.ytimg.com/vi/c79VPEFMJu0/maxresdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/18",
+        "time": "09:34",
+        "is_live": false,
+        "member": "凉舞 バレンウォート",
+        "title": "quick strem before my meeting",
+        "url": "https://www.twitch.tv/videos/2877033333",
+        "thumbnail": null,
+        "platform": "twitch"
+      },
+      {
+        "date": "2026/09/18",
+        "time": "10:00",
+        "is_live": false,
+        "member": "渚トラウト / Nagisa Trout【にじさんじ】",
+        "title": "【Minecraft】着々と建築 門作り編【渚トラウト/にじさんじ】",
+        "url": "https://www.youtube.com/watch?v=JnX37qNM4lU",
+        "thumbnail": "https://i.ytimg.com/vi/JnX37qNM4lU/maxresdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/18",
+        "time": "10:00",
+        "is_live": false,
+        "member": "Shu Yamino【NIJISANJI EN】",
+        "title": "Don't Drop The Cake (shu yamino nijisanji en stream) I think it is horror scary game very scary um",
+        "url": "https://www.youtube.com/watch?v=z4FLb-KsKOM",
+        "thumbnail": "https://i.ytimg.com/vi/z4FLb-KsKOM/maxresdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/18",
+        "time": "10:00",
+        "is_live": false,
+        "member": "Finana Ryugu 【NIJISANJI EN】",
+        "title": "【Escape the Backrooms】 horror slop w/ friends ! 「Collab」 ft. Wilson, Vox & Zeal",
+        "url": "https://www.youtube.com/watch?v=i4UZ3T9EdXw",
+        "thumbnail": "https://i.ytimg.com/vi/i4UZ3T9EdXw/maxresdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/18",
+        "time": "10:00",
+        "is_live": false,
+        "member": "Yu Q. Wilson 【NIJISANJI EN】",
+        "title": "【ESCAPE THE BACKROOMS】STAY IN CHARACTER【NIJISANJI EN | Yu Q. Wilson】",
+        "url": "https://www.youtube.com/watch?v=0q5ea6PB43o",
+        "thumbnail": "https://i.ytimg.com/vi/0q5ea6PB43o/maxresdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/18",
+        "time": "10:15",
+        "is_live": false,
+        "member": "Kaelix Debonair【NIJISANJI EN】",
+        "title": "i guess i'm escaping the backrooms now 🏃💨 【NIJISANJI EN | Kaelix Debonair】",
+        "url": "https://www.youtube.com/watch?v=bEitwBoZFdQ",
+        "thumbnail": "https://i.ytimg.com/vi/bEitwBoZFdQ/maxresdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/18",
+        "time": "10:15",
+        "is_live": false,
+        "member": "Zeal Ginjoka【NIJISANJI EN】",
+        "title": "【Escape The Backrooms】 I'm Not An Architect 😬 【NIJISANJI EN | Zeal Ginjoka】",
+        "url": "https://www.youtube.com/watch?v=hkw4VWtv1Ps",
+        "thumbnail": "https://i.ytimg.com/vi/hkw4VWtv1Ps/maxresdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/18",
+        "time": "10:50",
+        "is_live": false,
+        "member": "宇佐美リト / Usami Rito【にじさんじ】",
+        "title": "【トルネコの大冒険】完全初見！俺はこの日を待ちわびていた！！！ #2【宇佐美リト/にじさんじ】",
+        "url": "https://www.youtube.com/watch?v=z-0q7kesp70",
+        "thumbnail": "https://i.ytimg.com/vi/z-0q7kesp70/maxresdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/18",
+        "time": "11:27",
+        "is_live": false,
+        "member": "七瀬 すず菜 / Nanase Suzuna【にじさんじ】",
+        "title": "【縦型配信】ランチだ！ケンタの期間限定月見を食べるゲリラ雑談【七瀬すず菜/にじさんじ】 #shorts",
+        "url": "https://www.youtube.com/watch?v=llHNgNDjUEc",
+        "thumbnail": "https://i.ytimg.com/vi/llHNgNDjUEc/maxresdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/18",
+        "time": "11:30",
+        "is_live": false,
+        "member": "蝸堂みかる / Kadou Mikaru【にじさんじ】",
+        "title": "【 ラジオ📻 】 # 07　ののとみかの 「駆け抜け」らじお 【 にじさんじ / 蝸堂みかる / 十河ののは 】",
+        "url": "https://www.youtube.com/watch?v=tPJhfx6oSO8",
+        "thumbnail": "https://i.ytimg.com/vi/tPJhfx6oSO8/maxresdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/18",
+        "time": "12:00",
+        "is_live": false,
+        "member": "北小路ヒスイ / Kitakoji Hisui 【にじさんじ】",
+        "title": "【God Field】負けたら即終了 ゴッドフィールド9回目【北小路ヒスイ/にじさんじ】",
+        "url": "https://www.youtube.com/watch?v=2qdjYkCACZ8",
+        "thumbnail": "https://i.ytimg.com/vi/2qdjYkCACZ8/maxresdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/18",
+        "time": "12:00",
+        "is_live": false,
+        "member": "オリバー・エバンス / Oliver Evans 【にじさんじ】",
+        "title": "【遊戯王マスターデュエル】ヤミーズデッキ最終調整！！ #にじ遊戯王祭2026 【オリバー・エバンス/にじさんじ】",
+        "url": "https://www.youtube.com/watch?v=ytmbYd70f1M",
+        "thumbnail": "https://i.ytimg.com/vi/ytmbYd70f1M/maxresdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/18",
+        "time": "12:00",
+        "is_live": false,
+        "member": "Uki Violeta 【NIJISANJI EN】",
+        "title": "【FIELDS OF MISTRIA EP. 38】I will finally marry this dragon 🐉",
+        "url": "https://www.youtube.com/watch?v=9fAdUP0mf7Q",
+        "thumbnail": "https://i.ytimg.com/vi/9fAdUP0mf7Q/maxresdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/18",
+        "time": "12:00",
+        "is_live": false,
+        "member": "える / Elu【にじさんじ】",
+        "title": "【 ドラゴンボールZ:KAKAROT 】#02 完全初見！フリーザさんに会えるかな【にじさんじ/える】",
+        "url": "https://www.youtube.com/watch?v=mmuHY5xMUNM",
+        "thumbnail": "https://i.ytimg.com/vi/mmuHY5xMUNM/maxresdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/18",
+        "time": "13:00",
+        "is_live": false,
+        "member": "Sonny Brisko 【NIJISANJI EN】",
+        "title": "performing chibi experiments in THE LAB",
+        "url": "https://www.youtube.com/watch?v=DJzkYwwsfR4",
+        "thumbnail": "https://i.ytimg.com/vi/DJzkYwwsfR4/maxresdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/18",
+        "time": "14:00",
+        "is_live": false,
+        "member": "小々波いるか / Kokonami Iruka【にじさんじ】",
+        "title": "【 雑談 】さすがにもう秋かも【 にじさんじ  / 小々波いるか 】",
+        "url": "https://www.youtube.com/watch?v=oxZWy3V7XLM",
+        "thumbnail": "https://i.ytimg.com/vi/oxZWy3V7XLM/maxresdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/18",
+        "time": "14:00",
+        "is_live": false,
+        "member": "レイン・パターソン／Lain Paterson【にじさんじ】",
+        "title": "【遊戯王マスターデュエル】烙印ドラテ学ぶ！その３｜ #にじ遊戯王祭2026 【レイン・パターソン/にじさんじ】",
+        "url": "https://www.youtube.com/watch?v=GfDCsEEhb_E",
+        "thumbnail": "https://i.ytimg.com/vi/GfDCsEEhb_E/maxresdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/18",
+        "time": "16:00",
+        "is_live": true,
+        "member": "小柳ロウ / Koyanagi Rou【にじさんじ】",
+        "title": "【APEX】天月さん＆ゴリラさん【小柳ロウ/にじさんじ】",
+        "url": "https://www.youtube.com/watch?v=8KPj2la_KfM",
+        "thumbnail": "https://i.ytimg.com/vi/8KPj2la_KfM/maxresdefault_live.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/18",
+        "time": "16:00",
+        "is_live": true,
+        "member": "Seible【NIJISANJI EN】",
+        "title": "【WUWA&Work】Time to pull Mornye? Pomodoro work and Wuwa!【NIJISANJI EN | Seible】",
+        "url": "https://www.youtube.com/watch?v=c_1EGeZutS8",
+        "thumbnail": "https://i.ytimg.com/vi/c_1EGeZutS8/maxresdefault_live.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/18",
+        "time": "16:00",
+        "is_live": true,
+        "member": "Maria Marionette 【NIJISANJI EN】",
+        "title": "Story Ending? - Village in the Shade #12 SPOILER WARNING【Maria Marionette | NIJISANJI EN】",
+        "url": "https://www.youtube.com/watch?v=039Nyw5cGzw",
+        "thumbnail": "https://i.ytimg.com/vi/039Nyw5cGzw/maxresdefault_live.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/18",
+        "time": "17:56",
+        "is_live": false,
+        "member": "叶",
+        "title": "赴きドライバー",
+        "url": "https://www.twitch.tv/videos/2877284787",
+        "thumbnail": null,
+        "platform": "twitch"
+      },
+      {
+        "date": "2026/09/18",
+        "time": "18:00",
+        "is_live": false,
+        "member": "でびでび・でびる",
+        "title": "⑥ネタバレあり！パラノマサイト file38 伊勢人魚物語【でびでび・でびる/にじさんじ】",
+        "url": "https://www.youtube.com/watch?v=lcxTQ3GwiiE",
+        "thumbnail": "https://i.ytimg.com/vi/lcxTQ3GwiiE/maxresdefault_live.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/18",
+        "time": "18:00",
+        "is_live": false,
+        "member": "塚原大地 / Tsukahara Daichi【にじさんじ】",
+        "title": "【BOMBANANA!】猿になって爆弾解除 with 御子神琴音、千凛あゆむ【塚原大地 / にじさんじ】",
+        "url": "https://www.youtube.com/watch?v=x3vi4fTOP4A",
+        "thumbnail": "https://i.ytimg.com/vi/x3vi4fTOP4A/maxresdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/18",
+        "time": "18:00",
+        "is_live": true,
+        "member": "Zeal Ginjoka【NIJISANJI EN】",
+        "title": "【FNaF: Into The Pit】 Dive In 【NIJISANJI EN | Zeal Ginjoka】",
+        "url": "https://www.youtube.com/watch?v=CC5S4dbdulY",
+        "thumbnail": "https://i.ytimg.com/vi/CC5S4dbdulY/maxresdefault_live.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/18",
+        "time": "18:00",
+        "is_live": true,
+        "member": "花籠つばさ / Hanakago Tsubasa 【にじさんじ】",
+        "title": "【雑談】1周年らしいが絶対に振り返るんじゅねぇぞ！絶対にだ！【花籠つばさ / にじさんじ】",
+        "url": "https://www.youtube.com/watch?v=-jDe3hFD1UE",
+        "thumbnail": "https://i.ytimg.com/vi/-jDe3hFD1UE/maxresdefault_live.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/18",
+        "time": "18:00",
+        "is_live": false,
+        "member": "御子神琴音 / Mikogami Kotone【にじさんじ】",
+        "title": "【BOMBANANA!】🙈🙉🙊3匹で協力すれば爆弾解除なんて余裕、ですよね【御子神琴音 / にじさんじ】",
+        "url": "https://www.youtube.com/watch?v=9GornFOt1Qw",
+        "thumbnail": "https://i.ytimg.com/vi/9GornFOt1Qw/maxresdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/18",
+        "time": "18:00",
+        "is_live": true,
+        "member": "梢桃音 / Kozue Mone【にじさんじ】",
+        "title": "【#にじ遊戯王祭2026】デッキの調整と練習するよ👀【梢桃音/にじさんじ】",
+        "url": "https://www.youtube.com/watch?v=h09ZFSMcsvU",
+        "thumbnail": "https://i.ytimg.com/vi/h09ZFSMcsvU/maxresdefault_live.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/18",
+        "time": "18:00",
+        "is_live": false,
+        "member": "千凛あゆむ / Senri Ayumu【にじさんじ】",
+        "title": "【 BOMBANANA! 】見ざる聞かざる言わざる🐵爆弾解除3人で協力する w/ 塚原大地 御子神琴音【にじさんじ / 千凛あゆむ】",
+        "url": "https://www.youtube.com/watch?v=STN2-XHfR5o",
+        "thumbnail": "https://i.ytimg.com/vi/STN2-XHfR5o/maxresdefault_live.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/18",
+        "time": "19:00",
+        "is_live": true,
+        "member": "椎名唯華 / Shiina Yuika",
+        "title": "#20  【 P5R 】人生初のペルソナ🎩！完全初見で『ペルソナ5 ザ・ロイヤル』やるぞおおおおおおおお※ネタバレあり【 椎名唯華/にじさんじ】",
+        "url": "https://www.youtube.com/watch?v=lPGPINXPuCI",
+        "thumbnail": "https://i.ytimg.com/vi/lPGPINXPuCI/maxresdefault_live.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/18",
+        "time": "19:00",
+        "is_live": true,
+        "member": "五十嵐梨花 / Igarashi Rika 【にじさんじ】",
+        "title": "都市伝説解体センター┊︎#01 怪異を解き明かすミステリーアドベンチャー【 にじさんじ / 五十嵐梨花 】",
+        "url": "https://www.youtube.com/watch?v=VA_A1ITTW7U",
+        "thumbnail": "https://i.ytimg.com/vi/VA_A1ITTW7U/maxresdefault_live.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/18",
+        "time": "19:00",
+        "is_live": true,
+        "member": "栞葉るり / Shioriha Ruri【にじさんじ】",
+        "title": "【デスゲームの報告書】デスゲームの真相を暴け【栞葉るり/にじさんじ】",
+        "url": "https://www.youtube.com/watch?v=u1fUEhoqvVA",
+        "thumbnail": "https://i.ytimg.com/vi/u1fUEhoqvVA/maxresdefault_live.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/18",
+        "time": "19:00",
+        "is_live": true,
+        "member": "レヨン【にじさんじ】",
+        "title": "【ELDEN RING】※ネタバレ禁止！完全初見。素寒貧でも王になれますか？",
+        "url": "https://www.youtube.com/watch?v=-oNidEVCgMs",
+        "thumbnail": "https://i.ytimg.com/vi/-oNidEVCgMs/maxresdefault_live.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/18",
+        "time": "19:00",
+        "is_live": true,
+        "member": "七瀬 すず菜 / Nanase Suzuna【にじさんじ】",
+        "title": "【 #にじ遊戯王祭2026 】視聴者参加型✨たくさん練習する！！！【七瀬すず菜/にじさんじ】",
+        "url": "https://www.youtube.com/watch?v=YHWLbvmZVB8",
+        "thumbnail": "https://i.ytimg.com/vi/YHWLbvmZVB8/maxresdefault_live.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/18",
+        "time": "19:00",
+        "is_live": true,
+        "member": "雲母たまこ / Kirara Tamako【にじさんじ】",
+        "title": "𓊆 妹に運転を教える 𓊇 運転ならまかせてね！おねえちゃんなので！ 𓊆 雲母たまこ ┊ にじさんじ 𓊇",
+        "url": "https://www.youtube.com/watch?v=7Ra3C2TXtP4",
+        "thumbnail": "https://i.ytimg.com/vi/7Ra3C2TXtP4/maxresdefault_live.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/18",
+        "time": "19:00",
+        "is_live": true,
+        "member": "珠乃井ナナ / Tamanoi Nana【にじさんじ】",
+        "title": "【 Don't Drop The Cake 】おめめぐみオフコラボでケーキ配達。絶対に落とすな！【にじさんじ / 珠乃井ナナ】",
+        "url": "https://www.youtube.com/watch?v=BB2J4ISaTMM",
+        "thumbnail": "https://i.ytimg.com/vi/BB2J4ISaTMM/maxresdefault_live.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/18",
+        "time": "19:20",
+        "is_live": true,
+        "member": "ローレン・イロアス / Lauren Iroas【にじさんじ】",
+        "title": "【APEX】ボドカとじゃすぱーとALGSごっこ【ローレン・イロアス/にじさんじ】",
+        "url": "https://www.youtube.com/watch?v=cI7m738z_hM",
+        "thumbnail": "https://i.ytimg.com/vi/cI7m738z_hM/maxresdefault_live.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/18",
+        "time": "19:30",
+        "is_live": true,
+        "member": "ハユン / HaYun【にじさんじ】",
+        "title": "帰ってきました～！ 【ハユン/にじさんじ】",
+        "url": "https://www.youtube.com/watch?v=1S0AhT4zYKs",
+        "thumbnail": "https://i.ytimg.com/vi/1S0AhT4zYKs/maxresdefault_live.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/18",
+        "time": "20:00",
+        "is_live": false,
+        "member": "フレン・E・ルスタリオ",
+        "title": "【#にじ遊戯王祭2026】チーム7と練習試合！！ライゼオルさん達やっちゃってください【にじさんじ】",
+        "url": "https://www.youtube.com/watch?v=wBud6nCwIqU",
+        "thumbnail": "https://i.ytimg.com/vi/wBud6nCwIqU/maxresdefault_live.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/18",
+        "time": "20:00",
+        "is_live": true,
+        "member": "佐伯イッテツ / Saiki Ittetsu【にじさんじ】",
+        "title": "叛逆ってる？【にじさんじ／佐伯イッテツ】",
+        "url": "https://www.youtube.com/watch?v=46CSCrQiGnM",
+        "thumbnail": "https://i.ytimg.com/vi/46CSCrQiGnM/maxresdefault_live.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/18",
+        "time": "20:00",
+        "is_live": false,
+        "member": "オリバー・エバンス / Oliver Evans 【にじさんじ】",
+        "title": "【遊戯王マスターデュエル】「完璧な手札だ」VSチーム１練習試合！！！ #にじ遊戯王祭2026 【オリバー・エバンス/にじさんじ】",
+        "url": "https://www.youtube.com/watch?v=WvDeEzrVBDE",
+        "thumbnail": "https://i.ytimg.com/vi/WvDeEzrVBDE/maxresdefault_live.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/18",
+        "time": "20:00",
+        "is_live": false,
+        "member": "長尾 景 / Nagao Kei【にじさんじ】",
+        "title": "【#にじ遊戯王祭2026】対　抗　戦【長尾景/にじさんじ】",
+        "url": "https://www.youtube.com/watch?v=pqZGM1wD8Lw",
+        "thumbnail": "https://i.ytimg.com/vi/pqZGM1wD8Lw/maxresdefault_live.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/18",
+        "time": "20:00",
+        "is_live": false,
+        "member": "える / Elu【にじさんじ】",
+        "title": "【雑談】夏よ、さらば。【にじさんじ/える】",
+        "url": "https://www.youtube.com/watch?v=zd7wE5ctjBA",
+        "thumbnail": "https://i.ytimg.com/vi/zd7wE5ctjBA/maxresdefault_live.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/18",
+        "time": "20:00",
+        "is_live": false,
+        "member": "春崎エアル",
+        "title": "【遊戯王マスターデュエル #にじ遊戯王祭2026】チームで練習試合DA☆！【春崎エアル/にじさんじ】",
+        "url": "https://www.youtube.com/watch?v=sIiq3QBCZbY",
+        "thumbnail": "https://i.ytimg.com/vi/sIiq3QBCZbY/maxresdefault_live.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/18",
+        "time": "20:00",
+        "is_live": false,
+        "member": "雪城眞尋/Yukishiro Mahiro【にじさんじ所属】",
+        "title": "【#にじ遊戯王祭2026】チーム対抗戦の練習！チーム１のエアルさんのとこと！【雪城眞尋/にじさんじ】",
+        "url": "https://www.youtube.com/watch?v=oNore5xC958",
+        "thumbnail": "https://i.ytimg.com/vi/oNore5xC958/maxresdefault_live.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/18",
+        "time": "20:00",
+        "is_live": false,
+        "member": "夢追翔のJUKE BOX",
+        "title": "いたか……？僕に……こんな妹…… | 妹に運転を教える【にじさんじ/夢追翔】",
+        "url": "https://www.youtube.com/watch?v=AwEP0AnKtaA",
+        "thumbnail": "https://i.ytimg.com/vi/AwEP0AnKtaA/maxresdefault_live.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/18",
+        "time": "20:00",
+        "is_live": true,
+        "member": "風楽奏斗 / Fura Kanato",
+        "title": "【 BIOHAZARD RE:2 】初見でバイオハザードRE:2をプレイ　クレア編#2【にじさんじ/風楽奏斗】",
+        "url": "https://www.youtube.com/watch?v=tqW1oixEmmY",
+        "thumbnail": "https://i.ytimg.com/vi/tqW1oixEmmY/maxresdefault_live.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/18",
+        "time": "20:00",
+        "is_live": true,
+        "member": "皇れお / Sumeragi Reo【にじさんじ】",
+        "title": "ファタール / GEMN - 歌ってみた【皇れお / にじさんじ】",
+        "url": "https://www.youtube.com/watch?v=GpdRI4nBiLQ",
+        "thumbnail": "https://i.ytimg.com/vi/GpdRI4nBiLQ/maxresdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/18",
+        "time": "20:00",
+        "is_live": false,
+        "member": "鏑木ろこ / Kaburaki Roco【にじさんじ】",
+        "title": "【 オフコラボ 】 めるちが遊びに来てくれたのでパーティするぞ！！ 【 倉持めると￤鏑木ろこ￤にじさんじ 】",
+        "url": "https://www.youtube.com/watch?v=p3bqMrpSEbc",
+        "thumbnail": "https://i.ytimg.com/vi/p3bqMrpSEbc/maxresdefault_live.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/18",
+        "time": "20:00",
+        "is_live": false,
+        "member": "ソフィア・ヴァレンタイン / Sophia Valentine【にじさんじ】",
+        "title": "【 Don't Drop The Cake 】ケーキを落とすな！🎂【 ソフィア・ヴァレンタイン / にじさんじ】",
+        "url": "https://www.youtube.com/watch?v=NyPuINsMsHg",
+        "thumbnail": "https://i.ytimg.com/vi/NyPuINsMsHg/maxresdefault_live.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/18",
+        "time": "20:00",
+        "is_live": false,
+        "member": "空星きらめ/Sorahoshi Kirame【にじさんじ】",
+        "title": "【パラノマサイト FILE38 伊勢人魚物語 ¦ ＃０６】さて、ここが正念場ですよ【にじさんじ／空星きらめ】",
+        "url": "https://www.youtube.com/watch?v=pT74JvEdBhk",
+        "thumbnail": "https://i.ytimg.com/vi/pT74JvEdBhk/maxresdefault_live.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/18",
+        "time": "20:00",
+        "is_live": true,
+        "member": "家長むぎ【にじさんじ所属】",
+        "title": "【 Study with me 】3h🌜いっしょに勉強&作業 / 30min+5min【 にじさんじ / 家長むぎ 】",
+        "url": "https://www.youtube.com/watch?v=AYuweNsRg7g",
+        "thumbnail": "https://i.ytimg.com/vi/AYuweNsRg7g/maxresdefault_live.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/18",
+        "time": "20:00",
+        "is_live": false,
+        "member": "桜凛月",
+        "title": "【minecraft】竜宮城 玉手箱完成したい気持ち【にじさんじ/桜凛月】",
+        "url": "https://www.youtube.com/watch?v=iUR37snOsmE",
+        "thumbnail": "https://i.ytimg.com/vi/iUR37snOsmE/maxresdefault_live.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/18",
+        "time": "20:00",
+        "is_live": false,
+        "member": "水面まどか / Minamo Madoka 【にじさんじ】",
+        "title": "【  Don't Drop The Cake 】ケーキを落とさず運ぶ！？まかせなさい！【 にじさんじ / 水面まどか 】",
+        "url": "https://www.youtube.com/watch?v=Zj0I7_I2hds",
+        "thumbnail": "https://i.ytimg.com/vi/Zj0I7_I2hds/maxresdefault_live.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/18",
+        "time": "20:00",
+        "is_live": true,
+        "member": "Alban Knox 【NIJISANJI EN】",
+        "title": "【 ASMR -  REALISTIC INCUBUS (UNCUBUS) 】WELCOME, MORTAL... 【 NIJISANJI EN | Alban Knox 】",
+        "url": "https://www.youtube.com/watch?v=JTXj-zR4iUE",
+        "thumbnail": "https://i.ytimg.com/vi/JTXj-zR4iUE/maxresdefault_live.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/18",
+        "time": "20:00",
+        "is_live": true,
+        "member": "Cellmates",
+        "title": "剣持のお父さんに一番気に入られるのは誰だ！？",
+        "url": "https://www.youtube.com/watch?v=_mhkt-25fyM",
+        "thumbnail": "https://i.ytimg.com/vi/_mhkt-25fyM/maxresdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/18",
+        "time": "20:00",
+        "is_live": false,
+        "member": "一橋綾人 / Hitotsubashi Ayato【にじさんじ】",
+        "title": "【パラノマサイト FILE23 本所七不思議】秘術・オカルト・ミステリヰ　※ネタバレ注意【一橋綾人/にじさんじ】",
+        "url": "https://www.youtube.com/watch?v=BrZeabFFBw4",
+        "thumbnail": "https://i.ytimg.com/vi/BrZeabFFBw4/maxresdefault_live.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/18",
+        "time": "20:00",
+        "is_live": false,
+        "member": "レイン・パターソン／Lain Paterson【にじさんじ】",
+        "title": "【遊戯王マスターデュエル】ほかチームと練習試合！｜ #にじ遊戯王祭2026 【レイン・パターソン/にじさんじ】",
+        "url": "https://www.youtube.com/watch?v=2e-8jSg9Z2M",
+        "thumbnail": "https://i.ytimg.com/vi/2e-8jSg9Z2M/maxresdefault_live.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/18",
+        "time": "20:10",
+        "is_live": false,
+        "member": "篠宮ゆの / Shinomiya Yuno 【 にじさんじ 】",
+        "title": "おちゃめ機能 / ゴジマジP 歌ってみた 【 篠宮ゆの / すぷれあ / にじさんじ 】",
+        "url": "https://www.youtube.com/watch?v=nAHFS-0U82g",
+        "thumbnail": "https://i.ytimg.com/vi/nAHFS-0U82g/maxresdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/18",
+        "time": "20:20",
+        "is_live": false,
+        "member": "城瀬いすみ / Shirose Isumi【にじさんじ】",
+        "title": "ヒビカセ / 歌ってみた - Reol様,Giga様【城瀬いすみ / すぷれあ / にじさんじ】",
+        "url": "https://www.youtube.com/watch?v=qWiS7ItQwiU",
+        "thumbnail": "https://i.ytimg.com/vi/qWiS7ItQwiU/maxresdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/18",
+        "time": "20:30",
+        "is_live": false,
+        "member": "花籠つばさ / Hanakago Tsubasa 【にじさんじ】",
+        "title": "ピースサイン / 米津玄師 covered by 花籠つばさ【歌って弾いてみた / にじさんじ】",
+        "url": "https://www.youtube.com/watch?v=1Eq9PKmLGA8",
+        "thumbnail": "https://i.ytimg.com/vi/1Eq9PKmLGA8/maxresdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/18",
+        "time": "20:40",
+        "is_live": false,
+        "member": "すぷれあ",
+        "title": "【MV】もっふんろ〜る / すぷれあ",
+        "url": "https://www.youtube.com/watch?v=8reShVhW15I",
+        "thumbnail": "https://i.ytimg.com/vi/8reShVhW15I/maxresdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/18",
+        "time": "21:00",
+        "is_live": false,
+        "member": "男虎 / Ono Tora【にじさんじ】",
+        "title": "【スト6】ランクマッチをしますぞ！ガチガイル【にじさんじ】",
+        "url": "https://www.youtube.com/watch?v=yXI-6kyKUH0",
+        "thumbnail": "https://i.ytimg.com/vi/yXI-6kyKUH0/maxresdefault_live.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/18",
+        "time": "21:00",
+        "is_live": false,
+        "member": "山神 カルタ / Karuta Yamagami",
+        "title": "【#にじ遊戯王祭2026】立派なプレデター・プランナーになるために修行！🪴【にじさんじ/山神カルタ】",
+        "url": "https://www.youtube.com/watch?v=VUTrmfEW__s",
+        "thumbnail": "https://i.ytimg.com/vi/VUTrmfEW__s/maxresdefault_live.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/18",
+        "time": "21:00",
+        "is_live": false,
+        "member": "星川サラ / Sara Hoshikawa",
+        "title": "【#にじ遊戯王祭2026】妖精伝姫！視聴者参加型で練習だああああああああああああああああ！【星川サラ/にじさんじ】",
+        "url": "https://www.youtube.com/watch?v=iWkST9onUyI",
+        "thumbnail": "https://i.ytimg.com/vi/iWkST9onUyI/maxresdefault_live.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/18",
+        "time": "21:00",
+        "is_live": false,
+        "member": "Doppio Dropscythe【NIJISANJI EN】",
+        "title": "Dietrich's Story [FIRE EMBLEM FORTUNE'S WEAVE / 万紫千紅]【NIJISANJI EN | Doppio Dropscythe】",
+        "url": "https://www.youtube.com/watch?v=xxhjXlO61nw",
+        "thumbnail": "https://i.ytimg.com/vi/xxhjXlO61nw/maxresdefault_live.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/18",
+        "time": "21:00",
+        "is_live": false,
+        "member": "卯月コウ",
+        "title": "インターネットを揺るがす問題作【てあカノ　手垢のついたことしか言わない彼女】",
+        "url": "https://www.youtube.com/watch?v=CwYJSaB5ZGw",
+        "thumbnail": "https://i.ytimg.com/vi/CwYJSaB5ZGw/maxresdefault_live.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/18",
+        "time": "21:00",
+        "is_live": false,
+        "member": "フミ/にじさんじ",
+        "title": "【#にじ遊戯王祭2026】白き森白き森白き森白き森【にじさんじフミ 】",
+        "url": "https://www.youtube.com/watch?v=qSiCLYJ9YmE",
+        "thumbnail": "https://i.ytimg.com/vi/qSiCLYJ9YmE/maxresdefault_live.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/18",
+        "time": "21:00",
+        "is_live": false,
+        "member": "Enna Alouette【NIJISANJI EN】",
+        "title": "GHOST TRICK: PHANTOM DETECTIVE (CHAP 10~)【NIJISANJI  EN | Enna Alouette】",
+        "url": "https://www.youtube.com/watch?v=0PXYnCpNaPA",
+        "thumbnail": "https://i.ytimg.com/vi/0PXYnCpNaPA/maxresdefault_live.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/18",
+        "time": "21:00",
+        "is_live": false,
+        "member": "北見遊征 / Kitami Yusei【にじさんじ】",
+        "title": "【#にじユーフィット】北見が集めるぜ！uFitパワー！【北見遊征/にじさんじ】",
+        "url": "https://www.youtube.com/watch?v=JLkvetGo4nE",
+        "thumbnail": "https://i.ytimg.com/vi/JLkvetGo4nE/maxresdefault_live.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/18",
+        "time": "22:00",
+        "is_live": false,
+        "member": "ぽめろ・ぱんち / Pomelo Punch 【にじさんじ】",
+        "title": "【 Clover Pit 】借金をギャンブルで返済して生き残ろう！以上！【ぽめろ・ぱんち / にじさんじ】",
+        "url": "https://www.youtube.com/watch?v=c8G7ETG4eOk",
+        "thumbnail": "https://i.ytimg.com/vi/c8G7ETG4eOk/maxresdefault_live.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/18",
+        "time": "22:00",
+        "is_live": false,
+        "member": "壱百満天原サロメ / Hyakumantenbara Salome",
+        "title": "初見！STEINS;GATE0 シュタゲゼロアニメ同時視聴６話～✦ 壱百満天原サロメですわ～",
+        "url": "https://www.youtube.com/watch?v=Nproq4VCsi4",
+        "thumbnail": "https://i.ytimg.com/vi/Nproq4VCsi4/maxresdefault_live.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/18",
+        "time": "22:00",
+        "is_live": false,
+        "member": "皇れお / Sumeragi Reo【にじさんじ】",
+        "title": "【 雑談 】さて、1周年どうだった！振り返りしていこうぜ【 皇れお  / にじさんじ 】",
+        "url": "https://www.youtube.com/watch?v=99JojM8MgMw",
+        "thumbnail": "https://i.ytimg.com/vi/99JojM8MgMw/maxresdefault_live.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/18",
+        "time": "22:00",
+        "is_live": false,
+        "member": "白雪 巴/Shirayuki Tomoe",
+        "title": "【デスゲームの報告書】無人島で起きた死(デスゲーム)の真相を明らかにせよ🔍【白雪巴/にじさんじ】",
+        "url": "https://www.youtube.com/watch?v=3bsf58_1O60",
+        "thumbnail": "https://i.ytimg.com/vi/3bsf58_1O60/maxresdefault_live.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/18",
+        "time": "22:15",
+        "is_live": false,
+        "member": "城瀬いすみ / Shirose Isumi【にじさんじ】",
+        "title": "【 雑談 】1周年を迎えたかわいい男の振り返り【城瀬いすみ / すぷれあ / にじさんじ】",
+        "url": "https://www.youtube.com/watch?v=glQTmc41k6k",
+        "thumbnail": "https://i.ytimg.com/vi/glQTmc41k6k/maxresdefault_live.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/18",
+        "time": "22:30",
+        "is_live": false,
+        "member": "月ノ美兎",
+        "title": "ドライヤー中が暇なあなたへ",
+        "url": "https://www.youtube.com/watch?v=iE0hLKlKc-M",
+        "thumbnail": "https://i.ytimg.com/vi/iE0hLKlKc-M/maxresdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/18",
+        "time": "22:45",
+        "is_live": false,
+        "member": "イ・ロハ / LeeRoha【にじさんじ】",
+        "title": "☆ ！！🚘妹 vs ロハ🚘！！ ☆ 妹に運転を教えます。[にじさんじ/イロハ]",
+        "url": "https://www.youtube.com/watch?v=mKEFkcl7F2E",
+        "thumbnail": "https://i.ytimg.com/vi/mKEFkcl7F2E/maxresdefault_live.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/18",
+        "time": "23:00",
+        "is_live": false,
+        "member": "ベルモンド・バンデラス",
+        "title": "【逆転裁判 蘇る逆転】シリーズ完全初見！第5話 事件の裏に潜む過去 #11 ※ネタバレ注意！【ベルモンド・バンデラス/にじさんじ】",
+        "url": "https://www.youtube.com/watch?v=0mkESrBhIgY",
+        "thumbnail": "https://i.ytimg.com/vi/0mkESrBhIgY/maxresdefault_live.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/18",
+        "time": "23:00",
+        "is_live": false,
+        "member": "鷹宮リオン / Rion Takamiya",
+        "title": "【DARK SOULS III】死んだら即終了～14デス目～ #たかみや即終了ダクソ3【にじさんじ/鷹宮リオン】",
+        "url": "https://www.youtube.com/watch?v=UkwIKjHV8Ao",
+        "thumbnail": "https://i.ytimg.com/vi/UkwIKjHV8Ao/maxresdefault_live.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/18",
+        "time": "23:00",
+        "is_live": false,
+        "member": "千凛あゆむ / Senri Ayumu【にじさんじ】",
+        "title": "【 PRAGMATA 】完全初見 ✦︎ ラストまで。エンディング気になる、2人はどうなる？【にじさんじ / 千凛あゆむ】",
+        "url": "https://www.youtube.com/watch?v=Ee2Xpdp9qCo",
+        "thumbnail": "https://i.ytimg.com/vi/Ee2Xpdp9qCo/maxresdefault_live.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/19",
+        "time": "00:00",
+        "is_live": false,
+        "member": "猫屋敷美紅 / Nekoyashiki Miku【にじさんじ】",
+        "title": "✧︎* 深夜ラジオ┊2026年9月19日(土)のにゃるらじ🌙〖猫屋敷美紅 / にじさんじ〗",
+        "url": "https://www.youtube.com/watch?v=3bXVLhK9Xq0",
+        "thumbnail": "https://i.ytimg.com/vi/3bXVLhK9Xq0/maxresdefault_live.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/19",
+        "time": "08:00",
+        "is_live": false,
+        "member": "Elira Pendora 【NIJISANJI EN】",
+        "title": "【FINAL FANTASY VII REMAKE INTERGRADE】 I ain't your bro. 【NIJISANJI EN | Elira Pendora】",
+        "url": "https://www.youtube.com/watch?v=vsh7yE3Pm0I",
+        "thumbnail": "https://i.ytimg.com/vi/vsh7yE3Pm0I/maxresdefault_live.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/19",
+        "time": "08:00",
+        "is_live": false,
+        "member": "雲母たまこ / Kirara Tamako【にじさんじ】",
+        "title": "𓊆 ほの暮しの庭 𓊇 # 8 完全初見！優しいおばけもいるの…？？※ネタバレ注意 𓊆 雲母たまこ ┊ にじさんじ 𓊇",
+        "url": "https://www.youtube.com/watch?v=By0LDLpcmlg",
+        "thumbnail": "https://i.ytimg.com/vi/By0LDLpcmlg/maxresdefault_live.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/19",
+        "time": "08:30",
+        "is_live": false,
+        "member": "Aia Amare 【NIJISANJI EN】",
+        "title": "【AIA'S ART STUDIO】 TRYING TO DRAW MEDIEVAL STYLE!",
+        "url": "https://www.youtube.com/watch?v=5pF9xB3p4h4",
+        "thumbnail": "https://i.ytimg.com/vi/5pF9xB3p4h4/maxresdefault_live.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/19",
+        "time": "10:00",
+        "is_live": false,
+        "member": "レイン・パターソン／Lain Paterson【にじさんじ】",
+        "title": "【遊戯王マスターデュエル】視聴参加型でドラテ回していく！｜ #にじ遊戯王祭2026 【レイン・パターソン/にじさんじ】",
+        "url": "https://www.youtube.com/watch?v=7Rk2xPfo78s",
+        "thumbnail": "https://i.ytimg.com/vi/7Rk2xPfo78s/maxresdefault_live.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/19",
+        "time": "11:00",
+        "is_live": false,
+        "member": "Scarle Yonaguni 【NIJISANJI EN】",
+        "title": "Steaming my ✨EXECUTIVE HEADQUARTERS✨+ SURPRISE!",
+        "url": "https://www.youtube.com/watch?v=VhCSjD5U3tY",
+        "thumbnail": "https://i.ytimg.com/vi/VhCSjD5U3tY/maxresdefault_live.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/19",
+        "time": "12:00",
+        "is_live": false,
+        "member": "星川サラ / Sara Hoshikawa",
+        "title": "【完全初見】今日から！BLEACH Rebirth of Soulsやるぞおおおおおおおおおおおおおおお！#1【星川サラ/にじさんじ】",
+        "url": "https://www.youtube.com/watch?v=dphPeGsnLp8",
+        "thumbnail": "https://i.ytimg.com/vi/dphPeGsnLp8/maxresdefault_live.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/19",
+        "time": "12:00",
+        "is_live": false,
+        "member": "珠乃井ナナ / Tamanoi Nana【にじさんじ】",
+        "title": "【 魔法少女ノ魔女裁判 】#6 救いなんてなかった【にじさんじ / 珠乃井ナナ】",
+        "url": "https://www.youtube.com/watch?v=KN4OqF-ixn0",
+        "thumbnail": "https://i.ytimg.com/vi/KN4OqF-ixn0/maxresdefault_live.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/19",
+        "time": "13:00",
+        "is_live": false,
+        "member": "樋口楓【にじさんじ所属】",
+        "title": "【雑談】野球みて旅行してTGS行ってCV担当だと⁉🌺🌴【にじさんじ / 樋口楓 / お雑談をいたします！55】",
+        "url": "https://www.youtube.com/watch?v=0oRNzDRxif0",
+        "thumbnail": "https://i.ytimg.com/vi/0oRNzDRxif0/maxresdefault_live.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/19",
+        "time": "13:00",
+        "is_live": false,
+        "member": "倉持めると / Kuramochi Meruto【にじさんじ】",
+        "title": "【同時視聴】超完全初見!!『魔法少女まどか☆マギカ』見る!! 7～12話まで!!【倉持めると/にじさんじ】",
+        "url": "https://www.youtube.com/watch?v=B1MAb5_MCqY",
+        "thumbnail": "https://i.ytimg.com/vi/B1MAb5_MCqY/maxresdefault_live.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/19",
+        "time": "13:00",
+        "is_live": false,
+        "member": "千凛あゆむ / Senri Ayumu【にじさんじ】",
+        "title": "【 FINAL FANTASY X 】シリーズ初プレイ ✦︎ 完全初見 ✦︎ 今日から始まる旅、記憶を消してもう一度やりたいゲームと伺っております。【にじさんじ / 千凛あゆむ】",
+        "url": "https://www.youtube.com/watch?v=sSbuMpasRRc",
+        "thumbnail": "https://i.ytimg.com/vi/sSbuMpasRRc/maxresdefault_live.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/19",
+        "time": "15:00",
+        "is_live": false,
+        "member": "司賀りこ / Shiga Riko【にじさんじ】",
+        "title": "【逆転裁判 蘇る逆転/#6】シリーズ完全初見✨️しがりこが裁判に挑むよ。※ネタバレあり【司賀りこ/にじさんじ】",
+        "url": "https://www.youtube.com/watch?v=54LedPtzCW0",
+        "thumbnail": "https://i.ytimg.com/vi/54LedPtzCW0/maxresdefault_live.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/19",
+        "time": "20:00",
+        "is_live": false,
+        "member": "風楽奏斗 / Fura Kanato",
+        "title": "【#にじユーフィット】uFitパワー集めよう！【風楽奏斗/にじさんじ】",
+        "url": "https://www.youtube.com/watch?v=-CiJVsBew2A",
+        "thumbnail": "https://i.ytimg.com/vi/-CiJVsBew2A/maxresdefault_live.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/19",
+        "time": "22:00",
+        "is_live": false,
+        "member": "空星きらめ/Sorahoshi Kirame【にじさんじ】",
+        "title": "【雑談】パンケーキ食べたい🥞【にじさんじ／空星きらめ】",
+        "url": "https://www.youtube.com/watch?v=2-SAnEDst1w",
+        "thumbnail": "https://i.ytimg.com/vi/2-SAnEDst1w/maxresdefault_live.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/19",
+        "time": "22:00",
+        "is_live": false,
+        "member": "星川サラ / Sara Hoshikawa",
+        "title": "【完全初見】進撃の巨人 OAD アニメ同時視聴する！#9【星川サラ/にじさんじ】",
+        "url": "https://www.youtube.com/watch?v=ZvoiFY7g7Js",
+        "thumbnail": "https://i.ytimg.com/vi/ZvoiFY7g7Js/maxresdefault_live.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/19",
+        "time": "22:00",
+        "is_live": false,
+        "member": "魔界ノりりむ",
+        "title": "〖PUBG MOBILE〗ずしりでドン勝チャレンジするよっ！〖にじさんじ￤魔界ノりりむ〗",
+        "url": "https://www.youtube.com/watch?v=AM6hv_SF1-0",
+        "thumbnail": "https://i.ytimg.com/vi/AM6hv_SF1-0/maxresdefault_live.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/19",
+        "time": "22:00",
+        "is_live": false,
+        "member": "椎名唯華 / Shiina Yuika",
+        "title": "【PUBG MOBILE】ずしりでドン勝とるぞ！！！【 にじさんじ/椎名唯華 】",
+        "url": "https://www.youtube.com/watch?v=hAX8N7X6_VM",
+        "thumbnail": "https://i.ytimg.com/vi/hAX8N7X6_VM/maxresdefault_live.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/19",
+        "time": "22:00",
+        "is_live": false,
+        "member": "Kuzuha Channel",
+        "title": "【PUBG MOBILE】ずしりは協力できますか【 椎名りりむと 】",
+        "url": "https://www.youtube.com/watch?v=xdgs6d65Ul4",
+        "thumbnail": "https://i.ytimg.com/vi/xdgs6d65Ul4/maxresdefault_live.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/20",
+        "time": "11:00",
+        "is_live": false,
+        "member": "Scarle Yonaguni 【NIJISANJI EN】",
+        "title": "Cooking Handcam: Banana Bread for Banana Haters! 🍞🍌✨ (i hate bananas)",
+        "url": "https://www.youtube.com/watch?v=XajF3sGc1lY",
+        "thumbnail": "https://i.ytimg.com/vi/XajF3sGc1lY/maxresdefault_live.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/20",
+        "time": "17:00",
+        "is_live": false,
+        "member": "ぽっぷん・パーラー",
+        "title": "その怒り、元・魔法少女が代行します。【ぽっぷん・パーラー / にじさんじ】",
+        "url": "https://www.youtube.com/watch?v=939Z4UAAJlA",
+        "thumbnail": "https://i.ytimg.com/vi/939Z4UAAJlA/maxresdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/21",
+        "time": "11:00",
+        "is_live": false,
+        "member": "Scarle Yonaguni 【NIJISANJI EN】",
+        "title": "Gunpla Handcam: HGUC MSN-04II Nightingale ❤️✨Part 2",
+        "url": "https://www.youtube.com/watch?v=gGMoZsHQj20",
+        "thumbnail": "https://i.ytimg.com/vi/gGMoZsHQj20/maxresdefault_live.jpg",
+        "platform": "youtube"
+      }
+    ],
+    "vspo": [
+      {
+        "date": "2026/09/18",
+        "time": "14:23",
+        "is_live": false,
+        "member": "藍沢エマ / Aizawa Ema",
+        "title": "【スト6】今日は涼しいな【ぶいすぽっ！/ 藍沢エマ】",
+        "url": "https://www.youtube.com/watch?v=vNsmQSwEzmg",
+        "thumbnail": "https://i.ytimg.com/vi/vNsmQSwEzmg/hqdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/18",
+        "time": "15:03",
+        "is_live": false,
+        "member": "龍巻ちせ / Tatsumaki Chise",
+        "title": "◤  League of Legends  ◢　400LP目指していく！   ◤ぶいすぽっ！ #龍巻ちせ ⁠◢",
+        "url": "https://www.youtube.com/watch?v=4DZes1neLfg",
+        "thumbnail": "https://i.ytimg.com/vi/4DZes1neLfg/hqdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/18",
+        "time": "18:00",
+        "is_live": true,
+        "member": "銀城サイネ / Ginjo Saine",
+        "title": "【スト6】本日お越しいただくのは・・・ ／ しんじさん【ぶいすぽっ！ #銀城サイネ 】",
+        "url": "https://www.youtube.com/watch?v=E_ZIlMiFZtA",
+        "thumbnail": "https://i.ytimg.com/vi/E_ZIlMiFZtA/hqdefault_live.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/18",
+        "time": "19:03",
+        "is_live": true,
+        "member": "橘ひなの / Hinano Tachibana",
+        "title": "yaruzooooooooooo",
+        "url": "https://www.twitch.tv/hinanotachiba7",
+        "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hinanotachiba7-640x360.jpg",
+        "platform": "twitch"
+      },
+      {
+        "date": "2026/09/18",
+        "time": "19:07",
+        "is_live": true,
+        "member": "猫汰つな / Nekota Tsuna",
+        "title": "【APEX】新スプリットだと聞きました　w/のあ、ぽっぽ【ぶいすぽ / 猫汰つな】",
+        "url": "https://www.youtube.com/watch?v=0dxrP15F4t0",
+        "thumbnail": "https://i.ytimg.com/vi/0dxrP15F4t0/hqdefault_live.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/18",
+        "time": "19:07",
+        "is_live": true,
+        "member": "胡桃のあ",
+        "title": "【 APEX 】つなぽっぽとフルパ行くよ～【 ぶいすぽっ！胡桃のあ 】",
+        "url": "https://www.youtube.com/watch?v=QWThBiSGoyI",
+        "thumbnail": "https://i.ytimg.com/vi/QWThBiSGoyI/hqdefault_live.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/18",
+        "time": "19:55",
+        "is_live": true,
+        "member": "紫宮るな /shinomiya runa",
+        "title": "appu",
+        "url": "https://www.twitch.tv/shinomiya_runa",
+        "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shinomiya_runa-640x360.jpg",
+        "platform": "twitch"
+      },
+      {
+        "date": "2026/09/18",
+        "time": "20:00",
+        "is_live": true,
+        "member": "藍沢エマ / Aizawa Ema",
+        "title": "【#藍沢エマ5周年】デビューして5年も経ったようです！🌟グッズ告知あり！後半はマシュマロ読みます！【ぶいすぽっ！/ 藍沢エマ】",
+        "url": "https://www.youtube.com/watch?v=y6NsHlzSr3k",
+        "thumbnail": "https://i.ytimg.com/vi/y6NsHlzSr3k/hqdefault_live.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/18",
+        "time": "21:00",
+        "is_live": false,
+        "member": "Remia Aotsuki 【VSPO! EN】",
+        "title": "【Touhou Koumakyou】   This is nostalgic!  【#VSPOEN #RemiaAotsuki】",
+        "url": "https://www.youtube.com/watch?v=X2wRKSx8f6A",
+        "thumbnail": "https://i.ytimg.com/vi/X2wRKSx8f6A/hqdefault_live.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/18",
+        "time": "21:00",
+        "is_live": false,
+        "member": "蝶屋はなび / Choya Hanabi",
+        "title": "【 Machine Party  】　４位の座を譲りにきた!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!w/すみー、とと先輩、うひまん　【 ぶいすぽっ！ ⁠/蝶屋はなび 】",
+        "url": "https://www.youtube.com/watch?v=9c1HsRWJbOM",
+        "thumbnail": "https://i.ytimg.com/vi/9c1HsRWJbOM/hqdefault_live.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/18",
+        "time": "21:00",
+        "is_live": false,
+        "member": "花芽すみれ / Kaga Sumire",
+        "title": "【MACHINE PARTY】違法デスパーティー【ぶいすぽっ！/花芽すみれ】",
+        "url": "https://www.youtube.com/watch?v=zbCnj_ksyEI",
+        "thumbnail": "https://i.ytimg.com/vi/zbCnj_ksyEI/hqdefault_live.jpg",
+        "platform": "youtube"
+      },
+      {
+        "date": "2026/09/18",
+        "time": "21:00",
+        "is_live": false,
+        "member": "小雀とと / Toto Kogara",
+        "title": "【 Machine Party 】何やら危険なパーティーゲーム w/すーちゃん、ゆうひちゃん、はなびちゃん【 ぶいすぽ / 小雀とと 】",
+        "url": "https://www.youtube.com/watch?v=r1Auz5Zxryg",
+        "thumbnail": "https://i.ytimg.com/vi/r1Auz5Zxryg/hqdefault_live.jpg",
+        "platform": "youtube"
+      }
+    ],
+    "hololive": [
+      {
+        "date": "Unknown",
+        "time": "11:13",
+        "is_live": false,
+        "member": "Flayon",
+        "url": "https://www.youtube.com/watch?v=CrCOiIVkZZ8",
+        "thumbnail": "https://img.youtube.com/vi/CrCOiIVkZZ8/mqdefault.jpg",
+        "platform": "youtube",
+        "title": "New Member Tier...We Draw...【DRAWING】"
+      },
+      {
+        "date": "Unknown",
+        "time": "08:00",
+        "is_live": false,
+        "member": "Altare",
+        "url": "https://www.youtube.com/watch?v=TZA7xvlXb5k",
+        "thumbnail": "https://img.youtube.com/vi/TZA7xvlXb5k/mqdefault.jpg",
+        "platform": "youtube",
+        "title": "【🛡️ Kingdom Come: Deliverance II 🛡️】 WDYM I'M TOO STINKY FOR THE WEDDING??? 【3】"
+      },
+      {
+        "date": "Unknown",
+        "time": "07:30",
+        "is_live": false,
+        "member": "博衣こより",
+        "url": "https://www.youtube.com/watch?v=uxYg4CCEn-w",
+        "thumbnail": "https://img.youtube.com/vi/uxYg4CCEn-w/mqdefault.jpg",
+        "platform": "youtube",
+        "title": "【 MLBxhololive 】ロサンゼルス・ドジャース(大谷翔平,山本由伸,佐々木朗希選手所属) VS シンシナティ・レッズや日本人選手出場試合を応援しよう！【大神ミオ・博衣こより/ホロライブ】"
+      },
+      {
+        "date": "Unknown",
+        "time": "03:02",
+        "is_live": false,
+        "member": "Kiara",
+        "url": "https://www.youtube.com/watch?v=t2c5kLPiWe4",
+        "thumbnail": "https://img.youtube.com/vi/t2c5kLPiWe4/mqdefault.jpg",
+        "platform": "youtube",
+        "title": "【MEMBERS ONLY】wawa working !!!  POLAROID AAAAAAAAAAAAA"
+      },
+      {
+        "date": "Unknown",
+        "time": "08:00",
+        "is_live": false,
+        "member": "Shiori",
+        "url": "https://www.youtube.com/watch?v=0uXBz97Ao6A",
+        "thumbnail": "https://img.youtube.com/vi/0uXBz97Ao6A/mqdefault.jpg",
+        "platform": "youtube",
+        "title": "If 100 Novelites Got Together & Started Mating #shorts"
+      },
+      {
+        "date": "Unknown",
+        "time": "12:00",
+        "is_live": false,
+        "member": "鷹嶺ルイ",
+        "url": "https://www.youtube.com/watch?v=2-oSZUWysOU",
+        "thumbnail": "https://img.youtube.com/vi/2-oSZUWysOU/mqdefault.jpg",
+        "platform": "youtube",
+        "title": "苦労人ポジのルイ？ #shorts #hololive #ホロライブ切り抜き"
+      },
+      {
+        "date": "Unknown",
+        "time": "04:12",
+        "is_live": false,
+        "member": "Raora",
+        "url": "https://www.youtube.com/watch?v=Aev1DwVEccU",
+        "thumbnail": "https://img.youtube.com/vi/Aev1DwVEccU/mqdefault.jpg",
+        "platform": "youtube",
+        "title": "LET'S MAKE ARANCINO!!! 🍘🤌"
+      },
+      {
+        "date": "Unknown",
+        "time": "11:14",
+        "is_live": false,
+        "member": "Calli",
+        "url": "https://www.youtube.com/watch?v=CwkPNkkUesQ",
+        "thumbnail": "https://img.youtube.com/vi/CwkPNkkUesQ/mqdefault.jpg",
+        "platform": "youtube",
+        "title": "wtf is yarashi #anime #animation #hololive #vtuber"
+      },
+      {
+        "date": "Unknown",
+        "time": "06:00",
+        "is_live": false,
+        "member": "角巻わため",
+        "url": "https://www.youtube.com/watch?v=pjkjf4NXOLc",
+        "thumbnail": "https://img.youtube.com/vi/pjkjf4NXOLc/mqdefault.jpg",
+        "platform": "youtube",
+        "title": "「適◯適◯」この四字熟語はなんでしょう？【 #今日のわため 】 #shorts #hololive  #vtuber"
+      },
+      {
+        "date": "Unknown",
+        "time": "06:00",
+        "is_live": false,
+        "member": "ACHRORA",
+        "url": "https://www.youtube.com/watch?v=_nVmDhXT_jg",
+        "thumbnail": "https://img.youtube.com/vi/_nVmDhXT_jg/mqdefault.jpg",
+        "platform": "youtube",
+        "title": "【46連敗中/UNDERTALE】#4 今日絶対倒す💪打倒！勇者アンダイン！！ ＃墨汐さやな ＃さやな時間"
+      },
+      {
+        "date": "Unknown",
+        "time": "17:00",
+        "is_live": false,
+        "member": "響咲リオナ",
+        "url": "https://www.youtube.com/watch?v=rBPcUBFDIWI",
+        "thumbnail": "https://img.youtube.com/vi/rBPcUBFDIWI/mqdefault.jpg",
+        "platform": "youtube",
+        "title": "別にわがままでもいいよね！？😤 #vtuber #shorts #dance"
+      },
+      {
+        "date": "Unknown",
+        "time": "17:00",
+        "is_live": false,
+        "member": "癒月ちょこ",
+        "url": "https://www.youtube.com/watch?v=96TzvCfUOk8",
+        "thumbnail": "https://img.youtube.com/vi/96TzvCfUOk8/mqdefault.jpg",
+        "platform": "youtube",
+        "title": "ラブパラ踊ってみた #踊ってみた　#癒月ちょこ　#vtuber #hololive #dance #shorts #DECO*27"
+      },
+      {
+        "date": "Unknown",
+        "time": "17:00",
+        "is_live": false,
+        "member": "轟はじめ",
+        "url": "https://www.youtube.com/watch?v=G_OrYxfcfCs",
+        "thumbnail": "https://img.youtube.com/vi/G_OrYxfcfCs/mqdefault.jpg",
+        "platform": "youtube",
+        "title": "巨万の富が言えないばんちょー【轟はじめ】 #shorts"
+      },
+      {
+        "date": "Unknown",
+        "time": "15:31",
+        "is_live": false,
+        "member": "Kaela",
+        "url": "https://www.youtube.com/watch?v=a0vV_qrgxh0",
+        "thumbnail": "https://img.youtube.com/vi/a0vV_qrgxh0/mqdefault.jpg",
+        "platform": "youtube",
+        "title": "【hololive Dreams】p o k a j a n"
+      },
+      {
+        "date": "Unknown",
+        "time": "17:00",
+        "is_live": false,
+        "member": "博衣こより",
+        "url": "https://www.youtube.com/watch?v=UgrKLBNlAzs",
+        "thumbnail": "https://img.youtube.com/vi/UgrKLBNlAzs/mqdefault.jpg",
+        "platform": "youtube",
+        "title": "チューリングラブ１人２役で踊ってみた🧪 #踊ってみた #dance #shorts #ホロライブ #hololive #vtuber #ダンス #博衣こより #チューリングラブ"
+      },
+      {
+        "date": "Unknown",
+        "time": "12:00",
+        "is_live": false,
+        "member": "ACHRORA",
+        "url": "https://www.youtube.com/watch?v=gsPJPQzz-1Q",
+        "thumbnail": "https://img.youtube.com/vi/gsPJPQzz-1Q/mqdefault.jpg",
+        "platform": "youtube",
+        "title": "【#ホロドリ】イベント最終日❕自己ベスト更新なるか⁉【#ひなみ通信】#ACHRORA #由比河ひなみ"
+      },
+      {
+        "date": "Unknown",
+        "time": "17:08",
+        "is_live": false,
+        "member": "水宮枢",
+        "url": "https://www.youtube.com/watch?v=UmX7nCYQRWI",
+        "thumbnail": "https://img.youtube.com/vi/UmX7nCYQRWI/mqdefault.jpg",
+        "platform": "youtube",
+        "title": "ラブパラ／パラパラ踊ってみた #vtuber #hololive #dance"
+      },
+      {
+        "date": "Unknown",
+        "time": "18:00",
+        "is_live": false,
+        "member": "Zeta",
+        "url": "https://www.youtube.com/watch?v=xYZZ_1bNPFw",
+        "thumbnail": "https://img.youtube.com/vi/xYZZ_1bNPFw/mqdefault.jpg",
+        "platform": "youtube",
+        "title": "【Rubinite】extremely challenging monster hunt"
+      },
+      {
+        "date": "Unknown",
+        "time": "17:00",
+        "is_live": false,
+        "member": "綺々羅々ヴィヴィ",
+        "url": "https://www.youtube.com/watch?v=ES3IpT_ZSss",
+        "thumbnail": "https://img.youtube.com/vi/ES3IpT_ZSss/mqdefault.jpg",
+        "platform": "youtube",
+        "title": "LIVE中にお風呂！？🛁生誕推しカメラ📸モニタリング【#綺々羅々ヴィヴィ】#vtuber  #ホロライブ #shorts"
+      },
+      {
+        "date": "Unknown",
+        "time": "17:00",
+        "is_live": false,
+        "member": "輪堂千速",
+        "url": "https://www.youtube.com/watch?v=Goct1Pgd2vM",
+        "thumbnail": "https://img.youtube.com/vi/Goct1Pgd2vM/mqdefault.jpg",
+        "platform": "youtube",
+        "title": "鈍感なんだから～～～#shorts #切り抜き"
+      },
+      {
+        "date": "Unknown",
+        "time": "18:00",
+        "is_live": false,
+        "member": "ACHRORA",
+        "url": "https://www.youtube.com/watch?v=R4oYRtGdEow",
+        "thumbnail": "https://img.youtube.com/vi/R4oYRtGdEow/mqdefault.jpg",
+        "platform": "youtube",
+        "title": "【緊急/ #ホロドリ】イベント終了まで走ります！！！！APフルコンも目指す！！！！【#ひなみ通信】#ACHRORA #由比河ひなみ"
+      },
+      {
+        "date": "Unknown",
+        "time": "18:59",
+        "is_live": false,
+        "member": "宝鐘マリン",
+        "url": "https://www.youtube.com/watch?v=73sl-3cOp2E",
+        "thumbnail": "https://img.youtube.com/vi/73sl-3cOp2E/mqdefault.jpg",
+        "platform": "youtube",
+        "title": "【#ホロ甲2026】1年目夏大会準々決勝から！夏合宿どうなる！？【ホロライブ/宝鐘マリン・博衣こより】"
+      },
+      {
+        "date": "Unknown",
+        "time": "18:00",
+        "is_live": false,
+        "member": "FLOW GLOW",
+        "url": "https://www.youtube.com/watch?v=8yp3KgdIlus",
+        "thumbnail": "https://img.youtube.com/vi/8yp3KgdIlus/mqdefault.jpg",
+        "platform": "youtube",
+        "title": "好-じょし-をすうちはで即興で覚えて踊ってみた😋"
+      },
+      {
+        "date": "Unknown",
+        "time": "18:00",
+        "is_live": false,
+        "member": "ACHRORA",
+        "url": "https://www.youtube.com/watch?v=REmcZbB-JLI",
+        "thumbnail": "https://img.youtube.com/vi/REmcZbB-JLI/mqdefault.jpg",
+        "platform": "youtube",
+        "title": "ギャップが最高😿✨ #ReGLOSS の #音乃瀬奏 さん描いてみた🎹✨#ACHRORA #mekpark #shorts #琉海垣りらら"
+      },
+      {
+        "date": "Unknown",
+        "time": "19:00",
+        "is_live": false,
+        "member": "獅白ぼたん",
+        "url": "https://www.youtube.com/watch?v=IBeyD6ibq8o",
+        "thumbnail": "https://img.youtube.com/vi/IBeyD6ibq8o/mqdefault.jpg",
+        "platform": "youtube",
+        "title": "【キオクシア】ししろん先生が教える！PC ストレージ教室！【獅白ぼたん/ホロライブ】"
+      },
+      {
+        "date": "Unknown",
+        "time": "19:01",
+        "is_live": false,
+        "member": "風真いろは",
+        "url": "https://www.youtube.com/watch?v=Pu1uR5DSH8o",
+        "thumbnail": "https://img.youtube.com/vi/Pu1uR5DSH8o/mqdefault.jpg",
+        "platform": "youtube",
+        "title": "【#あずいろ食堂】告知あり💡あずいろ弁当お渡し会【風真いろは/ホロライブ】"
+      },
+      {
+        "date": "Unknown",
+        "time": "19:00",
+        "is_live": false,
+        "member": "尾丸ポルカ",
+        "url": "https://www.youtube.com/watch?v=ZyN1zxzkx8Q",
+        "thumbnail": "https://img.youtube.com/vi/ZyN1zxzkx8Q/mqdefault.jpg",
+        "platform": "youtube",
+        "title": "【ポルカの伝説】寿司プラモ"
+      },
+      {
+        "date": "Unknown",
+        "time": "19:09",
+        "is_live": false,
+        "member": "音乃瀬奏",
+        "url": "https://www.youtube.com/watch?v=Xpu0oy4B4KI",
+        "thumbnail": "https://img.youtube.com/vi/Xpu0oy4B4KI/mqdefault.jpg",
+        "platform": "youtube",
+        "title": "【 ホラゲー 】つぐのひ -天招ねく救いの糸-を遊んでみる！【音乃瀬奏】#ReGLOSS"
+      },
+      {
+        "date": "Unknown",
+        "time": "19:00",
+        "is_live": false,
+        "member": "Reine",
+        "url": "https://www.youtube.com/watch?v=spL4amzrKnY",
+        "thumbnail": "https://img.youtube.com/vi/spL4amzrKnY/mqdefault.jpg",
+        "platform": "youtube",
+        "title": "Letting Dice Decide Who I Adopt In Monster Rancher 2 DX【Pavolia Reine/hololive】"
+      },
+      {
+        "date": "Unknown",
+        "time": "19:58",
+        "is_live": false,
+        "member": "UNIT B",
+        "url": "https://www.youtube.com/watch?v=8WCpRUgv7w8",
+        "thumbnail": "https://img.youtube.com/vi/8WCpRUgv7w8/mqdefault.jpg",
+        "platform": "youtube",
+        "title": "【仁義なき戦い】私たちと共に戦おう！【 #UNIT_B / #スプラトゥーン3 】"
+      },
+      {
+        "date": "Unknown",
+        "time": "20:00",
+        "is_live": false,
+        "member": "夏色まつり",
+        "url": "https://www.youtube.com/watch?v=lpejWDQTlJU",
+        "thumbnail": "https://img.youtube.com/vi/lpejWDQTlJU/mqdefault.jpg",
+        "platform": "youtube",
+        "title": "【7Days to Die】荒地でクエスト回しまくり～！#ホロ7大豆劇場 【ホロライブ/夏色まつり】"
+      },
+      {
+        "date": "Unknown",
+        "time": "20:00",
+        "is_live": false,
+        "member": "猫又おかゆ",
+        "url": "https://www.youtube.com/watch?v=9J835nGZNoo",
+        "thumbnail": "https://img.youtube.com/vi/9J835nGZNoo/mqdefault.jpg",
+        "platform": "youtube",
+        "title": "【 ⭐奇跡 】TRICK SHOT見たくな～～い❔ | TRICK SHOT SIMULATOR【 猫又おかゆ/ホロライブ 】"
+      },
+      {
+        "date": "Unknown",
+        "time": "20:02",
+        "is_live": false,
+        "member": "一条莉々華",
+        "url": "https://www.youtube.com/watch?v=GrlqRvK_NBo",
+        "thumbnail": "https://img.youtube.com/vi/GrlqRvK_NBo/mqdefault.jpg",
+        "platform": "youtube",
+        "title": "【DAY13】ラストスパートのゾンビ村…！！！！ #ホロ7大豆劇場【一条莉々華/hololive ReGLOSS】"
+      },
+      {
+        "date": "Unknown",
+        "time": "20:00",
+        "is_live": false,
+        "member": "常闇トワ",
+        "url": "https://www.youtube.com/watch?v=BDo61qnmU-8",
+        "thumbnail": "https://img.youtube.com/vi/BDo61qnmU-8/mqdefault.jpg",
+        "platform": "youtube",
+        "title": "【 DAY13 】#ホロ7大豆劇場 ‼️荒れ地のクエスト回しまくるぞおお【常闇トワ/ホロライブ】"
+      },
+      {
+        "date": "Unknown",
+        "time": "20:01",
+        "is_live": false,
+        "member": "大空スバル",
+        "url": "https://www.youtube.com/watch?v=UTTsicHSoeI",
+        "thumbnail": "https://img.youtube.com/vi/UTTsicHSoeI/mqdefault.jpg",
+        "platform": "youtube",
+        "title": "【DAY14】ゾンビの世界を生き抜くしゅばああああああああああああああああああああああああああああああ！！！！！！：7Days to Die【ホロライブ/大空スバル】"
+      },
+      {
+        "date": "Unknown",
+        "time": "21:00",
+        "is_live": false,
+        "member": "兎田ぺこら",
+        "url": "https://www.youtube.com/watch?v=8qK5XfS1RZI",
+        "thumbnail": "https://img.youtube.com/vi/8qK5XfS1RZI/mqdefault.jpg",
+        "platform": "youtube",
+        "title": "#最終回【初見】『ソードアート・オンライン』同時視聴【ホロライブ/兎田ぺこら】"
+      },
+      {
+        "date": "Unknown",
+        "time": "21:00",
+        "is_live": false,
+        "member": "白上フブキ",
+        "url": "https://www.youtube.com/watch?v=kVIP05MlL4I",
+        "thumbnail": "https://img.youtube.com/vi/kVIP05MlL4I/mqdefault.jpg",
+        "platform": "youtube",
+        "title": "【#ShapeofDreams】コラボ記念配信！サプライズもあるよ！！【ホロライブ/白上フブキ・戌神ころね】 #シェイドリ＃PR"
+      },
+      {
+        "date": "Unknown",
+        "time": "20:48",
+        "is_live": false,
+        "member": "音乃瀬奏",
+        "url": "https://www.youtube.com/watch?v=GUK3hlvh8lo",
+        "thumbnail": "https://img.youtube.com/vi/GUK3hlvh8lo/mqdefault.jpg",
+        "platform": "youtube",
+        "title": "【 You & 合図 】とってもかわいい振付師さんと踊ってみた！💃W / wanpocola先生【 音乃瀬奏 】#shorts #hololive #音乃瀬奏"
+      },
+      {
+        "date": "Unknown",
+        "time": "21:00",
+        "is_live": false,
+        "member": "ACHRORA",
+        "url": "https://www.youtube.com/watch?v=bfICNGUfaR0",
+        "thumbnail": "https://img.youtube.com/vi/bfICNGUfaR0/mqdefault.jpg",
+        "platform": "youtube",
+        "title": "【ポケモンサファイア #3】岩ポケ縛り！無傷⁉️大活躍中のイシツブテ無双 がはじまる！🔥🪨🪨🪨#琉海垣りらら #りららだいびんぐ"
+      },
+      {
+        "date": "Unknown",
+        "time": "20:30",
+        "is_live": false,
+        "member": "Octavio",
+        "url": "https://www.youtube.com/watch?v=lGt_5XxZGWc",
+        "thumbnail": "https://img.youtube.com/vi/lGt_5XxZGWc/mqdefault.jpg",
+        "platform": "youtube",
+        "title": "VTUBERS PLAY SOCCER, WHAT COULD GO WRONG"
+      },
+      {
+        "date": "Unknown",
+        "time": "21:15",
+        "is_live": false,
+        "member": "Jurard",
+        "url": "https://www.youtube.com/watch?v=xuRvSyDyAn8",
+        "thumbnail": "https://img.youtube.com/vi/xuRvSyDyAn8/mqdefault.jpg",
+        "platform": "youtube",
+        "title": "【BIG WALK】BOYS AT THE WALK"
+      },
+      {
+        "date": "Unknown",
+        "time": "21:17",
+        "is_live": false,
+        "member": "Octavio",
+        "url": "https://www.youtube.com/watch?v=-ytH4Jqzhrk",
+        "thumbnail": "https://img.youtube.com/vi/-ytH4Jqzhrk/mqdefault.jpg",
+        "platform": "youtube",
+        "title": "HEAVEN, HELP US【THE BIG WALK】"
+      },
+      {
+        "date": "Unknown",
+        "time": "22:06",
+        "is_live": false,
+        "member": "角巻わため",
+        "url": "https://www.youtube.com/watch?v=Q87Fp3vmpyU",
+        "thumbnail": "https://img.youtube.com/vi/Q87Fp3vmpyU/mqdefault.jpg",
+        "platform": "youtube",
+        "title": "【メンバー限定配信】開設6年6ヶ月目！ここだけのわたｓ...はなし💛【角巻わため/ホロライブ４期生】"
+      },
+      {
+        "date": "Unknown",
+        "time": "22:02",
+        "is_live": false,
+        "member": "大空スバル",
+        "url": "https://www.youtube.com/watch?v=bC8bLJe3_Mc",
+        "thumbnail": "https://img.youtube.com/vi/bC8bLJe3_Mc/mqdefault.jpg",
+        "platform": "youtube",
+        "title": "【#生スバル】奏からもらった噂のSPAGHET ゲーム！やるしゅばああああああああああああああああああああああああああああああああああ！！！！！【ホロライブ/大空スバル】"
+      },
+      {
+        "date": "Unknown",
+        "time": "22:29",
+        "is_live": false,
+        "member": "水宮枢",
+        "url": "https://www.youtube.com/watch?v=HAIiSo456Rk",
+        "thumbnail": "https://img.youtube.com/vi/HAIiSo456Rk/mqdefault.jpg",
+        "platform": "youtube",
+        "title": "【雑談／freetalk】ゆるーく深夜に話す【水宮枢／ホロライブ】"
+      },
+      {
+        "date": "Unknown",
+        "time": "22:04",
+        "is_live": false,
+        "member": "不知火フレア",
+        "url": "https://www.youtube.com/watch?v=yHmBlnskMTw",
+        "thumbnail": "https://img.youtube.com/vi/yHmBlnskMTw/mqdefault.jpg",
+        "platform": "youtube",
+        "title": "【Super Chat】いつもありがとう！お礼＆ゆる雑談【不知火フレア/ホロライブ】"
+      },
+      {
+        "date": "Unknown",
+        "time": "22:40",
+        "is_live": false,
+        "member": "Flayon",
+        "url": "https://www.youtube.com/watch?v=0pztm0oMnL0",
+        "thumbnail": "https://img.youtube.com/vi/0pztm0oMnL0/mqdefault.jpg",
+        "platform": "youtube",
+        "title": "RACHIE HURTS FLAYON!!【BALAN WONDERWORLD】"
+      },
+      {
+        "date": "Unknown",
+        "time": "22:48",
+        "is_live": false,
+        "member": "奏手イヅル",
+        "url": "https://www.youtube.com/watch?v=prRd6_0n7HA",
+        "thumbnail": "https://img.youtube.com/vi/prRd6_0n7HA/mqdefault.jpg",
+        "platform": "youtube",
+        "title": "【Leafy Corner】深夜のチル植物屋作りその２ 【 #奏手イヅル 】"
+      },
+      {
+        "date": "Unknown",
+        "time": "23:00",
+        "is_live": false,
+        "member": "白銀ノエル",
+        "url": "https://www.youtube.com/watch?v=wKNLxcqZZtI",
+        "thumbnail": "https://img.youtube.com/vi/wKNLxcqZZtI/mqdefault.jpg",
+        "platform": "youtube",
+        "title": "【ASMR】雨が降ったり不安定な時期☔心がぽかぽかするあまめ吐息＆耳かき＆マッサージ♡【白銀ノエル/ホロライブ】"
+      },
+      {
+        "date": "Unknown",
+        "time": "23:21",
+        "is_live": false,
+        "member": "綺々羅々ヴィヴィ",
+        "url": "https://www.youtube.com/watch?v=LnDGyytqWbw",
+        "thumbnail": "https://img.youtube.com/vi/LnDGyytqWbw/mqdefault.jpg",
+        "platform": "youtube",
+        "title": "携帯がなくなりました【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW  】"
+      },
+      {
+        "date": "Unknown",
+        "time": "23:14",
+        "is_live": false,
+        "member": "ときのそら",
+        "url": "https://www.youtube.com/watch?v=9wNLcDw7wRI",
+        "thumbnail": "https://img.youtube.com/vi/9wNLcDw7wRI/mqdefault.jpg",
+        "platform": "youtube",
+        "title": "【ほのぼの釣り物語】とりあえず釣りはするらしい【ときのそら/ホロライブ】"
+      },
+      {
+        "date": "Unknown",
+        "time": "00:04",
+        "is_live": false,
+        "member": "Kiara",
+        "url": "https://www.youtube.com/watch?v=E_DcfRLPyl0",
+        "thumbnail": "https://img.youtube.com/vi/E_DcfRLPyl0/mqdefault.jpg",
+        "platform": "youtube",
+        "title": "【Fire Emblem: Fortune's Weave】SOTHIS I MISSED YOU #kfp #キアライブ"
+      },
+      {
+        "date": "Unknown",
+        "time": "06:00",
+        "is_live": false,
+        "member": "角巻わため",
+        "url": "https://www.youtube.com/watch?v=8lYQKW4sq9o",
+        "thumbnail": "https://img.youtube.com/vi/8lYQKW4sq9o/mqdefault.jpg",
+        "platform": "youtube",
+        "title": "「怠慢」の対義語はなんでしょう？【 #今日のわため 】 #shorts #hololive  #vtuber"
+      },
+      {
+        "date": "Unknown",
+        "time": "06:01",
+        "is_live": false,
+        "member": "ACHRORA",
+        "url": "https://www.youtube.com/watch?v=3L9kDijQBjs",
+        "thumbnail": "https://img.youtube.com/vi/3L9kDijQBjs/mqdefault.jpg",
+        "platform": "youtube",
+        "title": "【地元大好き】宮崎の良さを布教したい　#墨汐さやな ＃さやな時間"
+      },
+      {
+        "date": "Unknown",
+        "time": "03:08",
+        "is_live": false,
+        "member": "Cecilia",
+        "url": "https://www.youtube.com/watch?v=MAawlPmOvfE",
+        "thumbnail": "https://img.youtube.com/vi/MAawlPmOvfE/mqdefault.jpg",
+        "platform": "youtube",
+        "title": "【GUERILLA】YAPPING SPEEDILY AT YOU WHILE SIGNING SOME CARDS"
+      },
+      {
+        "date": "Unknown",
+        "time": "11:01",
+        "is_live": false,
+        "member": "Shinri",
+        "url": "https://www.youtube.com/watch?v=YWtxHX4PuQM",
+        "thumbnail": "https://img.youtube.com/vi/YWtxHX4PuQM/mqdefault.jpg",
+        "platform": "youtube",
+        "title": "【Voices of the Void】Part 14 - the last of the voices (for now...)"
+      },
+      {
+        "date": "Unknown",
+        "time": "10:08",
+        "is_live": false,
+        "member": "Flayon",
+        "url": "https://www.youtube.com/watch?v=kECsecsQQzo",
+        "thumbnail": "https://img.youtube.com/vi/kECsecsQQzo/mqdefault.jpg",
+        "platform": "youtube",
+        "title": "Altare. Lets Play A Game.【AVATAR LEGENDS: THE FIGHTING GAME】"
+      },
+      {
+        "date": "Unknown",
+        "time": "10:11",
+        "is_live": false,
+        "member": "Calli",
+        "url": "https://www.youtube.com/watch?v=aFyzB4Kqego",
+        "thumbnail": "https://img.youtube.com/vi/aFyzB4Kqego/mqdefault.jpg",
+        "platform": "youtube",
+        "title": "【Crash Bash】I Assembled a Team to Beat My First Ever Video Game.... #calliolive"
+      },
+      {
+        "date": "Unknown",
+        "time": "11:21",
+        "is_live": false,
+        "member": "Hakka",
+        "url": "https://www.youtube.com/watch?v=JXuU45QGu8o",
+        "thumbnail": "https://img.youtube.com/vi/JXuU45QGu8o/mqdefault.jpg",
+        "platform": "youtube",
+        "title": "【SUPER SMASH BROS ULTIMATE】🐦‍⬛🔅LOCKKITOS IS TIME FOR THE ULTIMATE SHOWDOWN  🗝️⛓️‍💥【OFF COLLAB】"
+      },
+      {
+        "date": "Unknown",
+        "time": "12:00",
+        "is_live": false,
+        "member": "ACHRORA",
+        "url": "https://www.youtube.com/watch?v=9Rb6IXQrpW0",
+        "thumbnail": "https://img.youtube.com/vi/9Rb6IXQrpW0/mqdefault.jpg",
+        "platform": "youtube",
+        "title": "ASMRの台詞を言うVTuverの本音 #由比河ひなみ #ACHRORA #mekpark #shorts"
+      },
+      {
+        "date": "Unknown",
+        "time": "12:00",
+        "is_live": false,
+        "member": "アソビ★まわり隊！",
+        "url": "https://www.youtube.com/watch?v=PKXd2ooPaQg",
+        "thumbnail": "https://img.youtube.com/vi/PKXd2ooPaQg/mqdefault.jpg",
+        "platform": "youtube",
+        "title": "【ホロライブ新ユニット】アソビ★まわり隊！ デビューPV"
+      },
+      {
+        "date": "Unknown",
+        "time": "11:58",
+        "is_live": false,
+        "member": "holoAN room",
+        "url": "https://www.youtube.com/watch?v=WWYpV_aqM8M",
+        "thumbnail": "https://img.youtube.com/vi/WWYpV_aqM8M/mqdefault.jpg",
+        "platform": "youtube",
+        "title": "ついに正体判明！？謎のアニメ情報解禁特番！【#昼ホロ / #風白ゆき】"
+      },
+      {
+        "date": "Unknown",
+        "time": "12:05",
+        "is_live": false,
+        "member": "熱千めら",
+        "url": "https://www.youtube.com/watch?v=HUdqaVqqv7Y",
+        "thumbnail": "https://img.youtube.com/vi/HUdqaVqqv7Y/mqdefault.jpg",
+        "platform": "youtube",
+        "title": "#熱千めら デビューPV【アソビ★まわり隊！】"
+      },
+      {
+        "date": "Unknown",
+        "time": "12:05",
+        "is_live": false,
+        "member": "鈴鳴つづり",
+        "url": "https://www.youtube.com/watch?v=BMzbSw0GihY",
+        "thumbnail": "https://img.youtube.com/vi/BMzbSw0GihY/mqdefault.jpg",
+        "platform": "youtube",
+        "title": "#鈴鳴つづり デビューPV【アソビ★まわり隊！】"
+      },
+      {
+        "date": "Unknown",
+        "time": "12:05",
+        "is_live": false,
+        "member": "熱千めら",
+        "url": "https://www.youtube.com/watch?v=4t9AwFEmKOE",
+        "thumbnail": "https://img.youtube.com/vi/4t9AwFEmKOE/mqdefault.jpg",
+        "platform": "youtube",
+        "title": "#熱千めら デビューPV【アソビ★まわり隊！】"
+      },
+      {
+        "date": "Unknown",
+        "time": "12:05",
+        "is_live": false,
+        "member": "宙科そぴあ",
+        "url": "https://www.youtube.com/watch?v=S2Xt4jc5FYQ",
+        "thumbnail": "https://img.youtube.com/vi/S2Xt4jc5FYQ/mqdefault.jpg",
+        "platform": "youtube",
+        "title": "#宙科そぴあ デビューPV【アソビ★まわり隊！】"
+      },
+      {
+        "date": "Unknown",
+        "time": "12:05",
+        "is_live": false,
+        "member": "鈴鳴つづり",
+        "url": "https://www.youtube.com/watch?v=aGkNYuf0F-4",
+        "thumbnail": "https://img.youtube.com/vi/aGkNYuf0F-4/mqdefault.jpg",
+        "platform": "youtube",
+        "title": "#鈴鳴つづり デビューPV【アソビ★まわり隊！】"
+      },
+      {
+        "date": "Unknown",
+        "time": "12:05",
+        "is_live": false,
+        "member": "宙科そぴあ",
+        "url": "https://www.youtube.com/watch?v=nDHTSgnXJNU",
+        "thumbnail": "https://img.youtube.com/vi/nDHTSgnXJNU/mqdefault.jpg",
+        "platform": "youtube",
+        "title": "#宙科そぴあ デビューPV【アソビ★まわり隊！】"
+      },
+      {
+        "date": "Unknown",
+        "time": "12:05",
+        "is_live": false,
+        "member": "百灯キョーコ",
+        "url": "https://www.youtube.com/watch?v=JgmDZTvH3ew",
+        "thumbnail": "https://img.youtube.com/vi/JgmDZTvH3ew/mqdefault.jpg",
+        "platform": "youtube",
+        "title": "#百灯キョーコ デビューPV【アソビ★まわり隊！】"
+      },
+      {
+        "date": "Unknown",
+        "time": "12:05",
+        "is_live": false,
+        "member": "百灯キョーコ",
+        "url": "https://www.youtube.com/watch?v=FIj6UTO6XtY",
+        "thumbnail": "https://img.youtube.com/vi/FIj6UTO6XtY/mqdefault.jpg",
+        "platform": "youtube",
+        "title": "#百灯キョーコ デビューPV【アソビ★まわり隊！】"
+      },
+      {
+        "date": "Unknown",
+        "time": "12:18",
+        "is_live": false,
+        "member": "アソビ★まわり隊！",
+        "url": "https://www.youtube.com/watch?v=5QFpA_--AKo",
+        "thumbnail": "https://img.youtube.com/vi/5QFpA_--AKo/mqdefault.jpg",
+        "platform": "youtube",
+        "title": "【ホロライブ新ユニット】アソビ★まわり隊！ デビューPV"
+      },
+      {
+        "date": "Unknown",
+        "time": "12:19",
+        "is_live": false,
+        "member": "アソビ★まわり隊！",
+        "url": "https://www.youtube.com/watch?v=XYI0DCByZEY",
+        "thumbnail": "https://img.youtube.com/vi/XYI0DCByZEY/mqdefault.jpg",
+        "platform": "youtube",
+        "title": "百灯キョーコ タレントPV【Live2Dアニメーション】"
+      },
+      {
+        "date": "Unknown",
+        "time": "13:17",
+        "is_live": false,
+        "member": "常闇トワ",
+        "url": "https://www.youtube.com/watch?v=772Pg_mU-rw",
+        "thumbnail": "https://img.youtube.com/vi/772Pg_mU-rw/mqdefault.jpg",
+        "platform": "youtube",
+        "title": "おつかれSUMMER 踊ってみた☀️  #vtuber #dance  #踊ってみた #shorts"
+      },
+      {
+        "date": "Unknown",
+        "time": "15:06",
+        "is_live": false,
+        "member": "ロボ子さん",
+        "url": "https://www.youtube.com/watch?v=UDn20o8pUZY",
+        "thumbnail": "https://img.youtube.com/vi/UDn20o8pUZY/mqdefault.jpg",
+        "platform": "youtube",
+        "title": "【 もぐもぐEAT】風邪から微復活！！食欲の秋は来ていますねえ、、、ステーキはステーキだよ【ホロライブ/ ロボ子さん 】"
+      },
+      {
+        "date": "Unknown",
+        "time": "12:15",
+        "is_live": false,
+        "member": "アソビ★まわり隊！",
+        "url": "https://www.youtube.com/watch?v=-vKuSAvzK9Q",
+        "thumbnail": "https://img.youtube.com/vi/-vKuSAvzK9Q/mqdefault.jpg",
+        "platform": "youtube",
+        "title": "百灯キョーコ タレントPV【Live2Dアニメーション】"
+      },
+      {
+        "date": "Unknown",
+        "time": "17:00",
+        "is_live": false,
+        "member": "轟はじめ",
+        "url": "https://www.youtube.com/watch?v=8AoPL2E0cyM",
+        "thumbnail": "https://img.youtube.com/vi/8AoPL2E0cyM/mqdefault.jpg",
+        "platform": "youtube",
+        "title": "だるまさんが転んだGo Wild【轟はじめ】#shorts #vtuber #gowild"
+      },
+      {
+        "date": "Unknown",
+        "time": "17:00",
+        "is_live": false,
+        "member": "博衣こより",
+        "url": "https://www.youtube.com/watch?v=nadpuNbKYS0",
+        "thumbnail": "https://img.youtube.com/vi/nadpuNbKYS0/mqdefault.jpg",
+        "platform": "youtube",
+        "title": "jon-YAKITORYさん作のオリ曲「ピンクになっちゃえ」踊ってみた！ #踊ってみた #dance #shorts #ホロライブ #hololive #vtuber #ダンス #博衣こより"
+      },
+      {
+        "date": "Unknown",
+        "time": "17:00",
+        "is_live": false,
+        "member": "綺々羅々ヴィヴィ",
+        "url": "https://www.youtube.com/watch?v=RyyJeiV1ICY",
+        "thumbnail": "https://img.youtube.com/vi/RyyJeiV1ICY/mqdefault.jpg",
+        "platform": "youtube",
+        "title": "IRIS OUTウォーキングからのダンス💃【#綺々羅々ヴィヴィ】#vtuber #ホロライブ #dance #shorts"
+      },
+      {
+        "date": "Unknown",
+        "time": "17:00",
+        "is_live": false,
+        "member": "羽継烏有",
+        "url": "https://www.youtube.com/watch?v=_FZpt0VR1EA",
+        "thumbnail": "https://img.youtube.com/vi/_FZpt0VR1EA/mqdefault.jpg",
+        "platform": "youtube",
+        "title": "【極悪特区コラボ】怪我人に席を譲らせる理由 #ホロスターズ #anime"
+      },
+      {
+        "date": "Unknown",
+        "time": "15:59",
+        "is_live": true,
+        "member": "Reine",
+        "url": "https://www.youtube.com/watch?v=Qp3U8POjXC4",
+        "thumbnail": "https://img.youtube.com/vi/Qp3U8POjXC4/mqdefault.jpg",
+        "platform": "youtube",
+        "title": "Dice Decides Who I Adopt In Monster Rancher 2 DX Again【Pavolia Reine/hololive】"
+      },
+      {
+        "date": "Unknown",
+        "time": "17:00",
+        "is_live": false,
+        "member": "輪堂千速",
+        "url": "https://www.youtube.com/watch?v=LWW8tI6G5G0",
+        "thumbnail": "https://img.youtube.com/vi/LWW8tI6G5G0/mqdefault.jpg",
+        "platform": "youtube",
+        "title": "声がでかい女です#shorts #切り抜き #minecraft"
+      },
+      {
+        "date": "Unknown",
+        "time": "17:00",
+        "is_live": false,
+        "member": "水宮枢",
+        "url": "https://www.youtube.com/watch?v=yEHZ7KHdOQk",
+        "thumbnail": "https://img.youtube.com/vi/yEHZ7KHdOQk/mqdefault.jpg",
+        "platform": "youtube",
+        "title": "お尻回すやつ！／はちゃめちゃわちゃライフ踊ってみた #vtuber #hololive #dance"
+      },
+      {
+        "date": "Unknown",
+        "time": "18:00",
+        "is_live": false,
+        "member": "ReGLOSS",
+        "url": "https://www.youtube.com/watch?v=R_5NgbTKPsA",
+        "thumbnail": "https://img.youtube.com/vi/R_5NgbTKPsA/mqdefault.jpg",
+        "platform": "youtube",
+        "title": "フィーリングラデーションMV1000万再生🎉 #ReGLOSS #VTuber #shorts"
+      },
+      {
+        "date": "Unknown",
+        "time": "17:00",
+        "is_live": false,
+        "member": "癒月ちょこ",
+        "url": "https://www.youtube.com/watch?v=pzIIDd4ulrQ",
+        "thumbnail": "https://img.youtube.com/vi/pzIIDd4ulrQ/mqdefault.jpg",
+        "platform": "youtube",
+        "title": "プリマドンナ踊ってみた #踊ってみた　#癒月ちょこ　#vtuber #hololive #dance #shorts #星街すいせい"
+      },
+      {
+        "date": "Unknown",
+        "time": "17:42",
+        "is_live": false,
+        "member": "響咲リオナ",
+        "url": "https://www.youtube.com/watch?v=eIrXBWTz3rk",
+        "thumbnail": "https://img.youtube.com/vi/eIrXBWTz3rk/mqdefault.jpg",
+        "platform": "youtube",
+        "title": "【お知らせ】リオナは水虫ではありません。 #vtuber #shorts"
+      },
+      {
+        "date": "Unknown",
+        "time": "18:00",
+        "is_live": true,
+        "member": "白銀ノエル",
+        "url": "https://www.youtube.com/watch?v=FrCWdotzS4Y",
+        "thumbnail": "https://img.youtube.com/vi/FrCWdotzS4Y/mqdefault.jpg",
+        "platform": "youtube",
+        "title": "【#ホロ甲2026】大分の白銀学院高校！２年目の春！！！！！！甲子園に連れてってーッッ！！！【白銀ノエル/ホロライブ】"
+      },
+      {
+        "date": "Unknown",
+        "time": "18:01",
+        "is_live": true,
+        "member": "綺々羅々ヴィヴィ",
+        "url": "https://www.youtube.com/watch?v=Ljav30HP2M8",
+        "thumbnail": "https://img.youtube.com/vi/Ljav30HP2M8/mqdefault.jpg",
+        "platform": "youtube",
+        "title": "【 青鬼２ 】完全初見！初めての青鬼２に挑戦！【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW 】"
+      },
+      {
+        "date": "Unknown",
+        "time": "18:30",
+        "is_live": false,
+        "member": "獅白ぼたん",
+        "url": "https://www.youtube.com/watch?v=wgXket2D6gk",
+        "thumbnail": "https://img.youtube.com/vi/wgXket2D6gk/mqdefault.jpg",
+        "platform": "youtube",
+        "title": "おゆいさんと #めろぞーま 🩵#shorts #SWEETSTEADY #すいすて"
+      },
+      {
+        "date": "Unknown",
+        "time": "19:00",
+        "is_live": false,
+        "member": "ホロライブ",
+        "url": "https://www.youtube.com/watch?v=NcXOld6MRdo",
+        "thumbnail": "https://img.youtube.com/vi/NcXOld6MRdo/mqdefault.jpg",
+        "platform": "youtube",
+        "title": "【Q&A】この略語の意味は？【CEO】#hololive #ホロライブ"
+      },
+      {
+        "date": "Unknown",
+        "time": "19:00",
+        "is_live": false,
+        "member": "ホロドリ",
+        "url": "https://www.youtube.com/watch?v=8ncXOgv_m34",
+        "thumbnail": "https://img.youtube.com/vi/8ncXOgv_m34/mqdefault.jpg",
+        "platform": "youtube",
+        "title": "【ホロドリ】『Grave of Halo』アキ・ローゼンタール (Official Music Video)"
+      },
+      {
+        "date": "Unknown",
+        "time": "18:00",
+        "is_live": false,
+        "member": "FLOW GLOW",
+        "url": "https://www.youtube.com/watch?v=Uq73H0vGbfw",
+        "thumbnail": "https://img.youtube.com/vi/Uq73H0vGbfw/mqdefault.jpg",
+        "platform": "youtube",
+        "title": "5分の1で☠罰ゲーム☠【3回戦目】"
+      },
+      {
+        "date": "Unknown",
+        "time": "19:00",
+        "is_live": true,
+        "member": "博衣こより",
+        "url": "https://www.youtube.com/watch?v=lu5OuMopCaM",
+        "thumbnail": "https://img.youtube.com/vi/lu5OuMopCaM/mqdefault.jpg",
+        "platform": "youtube",
+        "title": "【 #ホロ甲2026 】こんこよ高校2026⚾2年目夏甲子園！優勝すっぞ！！！✨【博衣こより/ホロライブ】"
+      },
+      {
+        "date": "Unknown",
+        "time": "19:00",
+        "is_live": false,
+        "member": "雪花ラミィ",
+        "url": "https://www.youtube.com/watch?v=J2E266xqk9M",
+        "thumbnail": "https://img.youtube.com/vi/J2E266xqk9M/mqdefault.jpg",
+        "platform": "youtube",
+        "title": "【#ねぽっくす あと8日】ラミこよがSnowZnowになった瞬間…！？【ホロライブ/雪花ラミィ】"
+      },
+      {
+        "date": "Unknown",
+        "time": "19:00",
+        "is_live": true,
+        "member": "常闇トワ",
+        "url": "https://www.youtube.com/watch?v=KGOAr2ZiOrs",
+        "thumbnail": "https://img.youtube.com/vi/KGOAr2ZiOrs/mqdefault.jpg",
+        "platform": "youtube",
+        "title": "【 Apex Legends 】せりーとありさんと！【常闇トワ / ホロライブ】"
+      },
+      {
+        "date": "Unknown",
+        "time": "19:58",
+        "is_live": true,
+        "member": "UNIT B",
+        "url": "https://www.youtube.com/watch?v=T4zo2kdl5-0",
+        "thumbnail": "https://img.youtube.com/vi/T4zo2kdl5-0/mqdefault.jpg",
+        "platform": "youtube",
+        "title": "【Day1】ゾンビしかいない！！7Days to Dieの世界をサバイバル！！【 #UNIT_B 】"
+      },
+      {
+        "date": "Unknown",
+        "time": "19:47",
+        "is_live": true,
+        "member": "猫又おかゆ",
+        "url": "https://www.youtube.com/watch?v=x0__t5HchqI",
+        "thumbnail": "https://img.youtube.com/vi/x0__t5HchqI/mqdefault.jpg",
+        "platform": "youtube",
+        "title": "【 🟡BASE BREAD 】#おかころ で!!🍙🥐✦ BASE FOODさんからの食レポクイズにチャレンジ💥【 猫又おかゆ / 戌神ころね /ホロライブ 】"
+      },
+      {
+        "date": "Unknown",
+        "time": "20:00",
+        "is_live": true,
+        "member": "兎田ぺこら",
+        "url": "https://www.youtube.com/watch?v=J33JnrVJiIQ",
+        "thumbnail": "https://img.youtube.com/vi/J33JnrVJiIQ/mqdefault.jpg",
+        "platform": "youtube",
+        "title": "【初見】トルネコの大冒険 ちょっとステキなリマスターで遊ぶ！ぺこ！【ホロライブ/兎田ぺこら】※ネタバレ注意"
+      },
+      {
+        "date": "Unknown",
+        "time": "19:59",
+        "is_live": true,
+        "member": "姫森ルーナ",
+        "url": "https://www.youtube.com/watch?v=GrNFslWPKG8",
+        "thumbnail": "https://img.youtube.com/vi/GrNFslWPKG8/mqdefault.jpg",
+        "platform": "youtube",
+        "title": "【 #んなたんと同時視聴 】∀ガンダム（ターンエー）を一緒に観るのら！！！第9話～【姫森ルーナ/ホロライブ】"
+      },
+      {
+        "date": "Unknown",
+        "time": "20:00",
+        "is_live": true,
+        "member": "風真いろは",
+        "url": "https://www.youtube.com/watch?v=dTouiXf4DiA",
+        "thumbnail": "https://img.youtube.com/vi/dTouiXf4DiA/mqdefault.jpg",
+        "platform": "youtube",
+        "title": "【ポケコロツイン】かざまの着せ替えセンスを見せるときが来たか・・・！【風真いろは/ホロライブ】"
+      },
+      {
+        "date": "Unknown",
+        "time": "20:00",
+        "is_live": true,
+        "member": "夜十神封魔",
+        "url": "https://www.youtube.com/watch?v=mTgKORlXAQU",
+        "thumbnail": "https://img.youtube.com/vi/mTgKORlXAQU/mqdefault.jpg",
+        "platform": "youtube",
+        "title": "スプラトゥーン3｜ストリヌのパーティーメンバーで2次会 - 夜十神封魔 × かざね × 覇王別姫樹里 × スマイル × ゆたくん × やなと × らお × ひょう太朗"
+      },
+      {
+        "date": "Unknown",
+        "time": "20:00",
+        "is_live": true,
+        "member": "荒咬オウガ",
+        "url": "https://www.youtube.com/watch?v=AJ_HIj2EHls",
+        "thumbnail": "https://img.youtube.com/vi/AJ_HIj2EHls/mqdefault.jpg",
+        "platform": "youtube",
+        "title": "【同時視聴】機動新世紀ガンダムX　第31話～最終回【荒咬オウガ /ホロスターズ】"
+      },
+      {
+        "date": "Unknown",
+        "time": "20:01",
+        "is_live": true,
+        "member": "白上フブキ",
+        "url": "https://www.youtube.com/watch?v=_vvbn7kgqj4",
+        "thumbnail": "https://img.youtube.com/vi/_vvbn7kgqj4/mqdefault.jpg",
+        "platform": "youtube",
+        "title": "【妄想】アソビ★まわり隊！デビュー前妄想プロフィール！　#ミリしらアソビまわり隊【ホロライブ/白上フブキ】"
+      },
+      {
+        "date": "Unknown",
+        "time": "20:01",
+        "is_live": true,
+        "member": "ACHRORA",
+        "url": "https://www.youtube.com/watch?v=St0D7ajddgM",
+        "thumbnail": "https://img.youtube.com/vi/St0D7ajddgM/mqdefault.jpg",
+        "platform": "youtube",
+        "title": "【歌枠】爽やか！！雨のじめじめ吹き飛ばす盛り上がり夏曲縛り歌枠 ＃墨汐さやな ＃さやな時間"
+      },
+      {
+        "date": "Unknown",
+        "time": "21:00",
+        "is_live": false,
+        "member": "Ollie",
+        "url": "https://www.youtube.com/watch?v=Fy0PXw6Y1Ak",
+        "thumbnail": "https://img.youtube.com/vi/Fy0PXw6Y1Ak/mqdefault.jpg",
+        "platform": "youtube",
+        "title": "【FREETALK】 DON'T FORGET TO STAY HYDRATED!! 【Kureiji Ollie】"
+      },
+      {
+        "date": "Unknown",
+        "time": "21:00",
+        "is_live": false,
+        "member": "轟はじめ",
+        "url": "https://www.youtube.com/watch?v=O-MkJAFo9Ig",
+        "thumbnail": "https://img.youtube.com/vi/O-MkJAFo9Ig/mqdefault.jpg",
+        "platform": "youtube",
+        "title": "【雑談】新曲のおはなしとか新人ちゃんとか【轟はじめ/ReGLOSS】"
+      },
+      {
+        "date": "Unknown",
+        "time": "21:00",
+        "is_live": false,
+        "member": "大空スバル",
+        "url": "https://www.youtube.com/watch?v=XjdaSWFPg_g",
+        "thumbnail": "https://img.youtube.com/vi/XjdaSWFPg_g/mqdefault.jpg",
+        "platform": "youtube",
+        "title": "【#2】ひぐらしのなく頃に 解 同時視聴するしゅばあああああああああ！！！！！： Higurashi When They Cry: Solution watching party【大空スバル】"
+      },
+      {
+        "date": "Unknown",
+        "time": "21:00",
+        "is_live": false,
+        "member": "Calli",
+        "url": "https://www.youtube.com/watch?v=ZDr09XLVGVc",
+        "thumbnail": "https://img.youtube.com/vi/ZDr09XLVGVc/mqdefault.jpg",
+        "platform": "youtube",
+        "title": "【BANANAGRAMS】yummy words with Nerissa. (handcam off-collab) #calliolive"
+      },
+      {
+        "date": "Unknown",
+        "time": "21:00",
+        "is_live": false,
+        "member": "一条莉々華",
+        "url": "https://www.youtube.com/watch?v=a17zVwTPF2I",
+        "thumbnail": "https://img.youtube.com/vi/a17zVwTPF2I/mqdefault.jpg",
+        "platform": "youtube",
+        "title": "【#ホロと祝う集英社100th】許斐剛先生×一条莉々華スペシャル対談後編　『新テニスの王子様』完結記念インタビュー！"
+      },
+      {
+        "date": "Unknown",
+        "time": "22:00",
+        "is_live": false,
+        "member": "角巻わため",
+        "url": "https://www.youtube.com/watch?v=2VhqRTZ9YlI",
+        "thumbnail": "https://img.youtube.com/vi/2VhqRTZ9YlI/mqdefault.jpg",
+        "platform": "youtube",
+        "title": "【雑談＆お礼】今日は華の金曜日？！のんびりおはなし🍡【角巻わため/ホロライブ４期生】"
+      },
+      {
+        "date": "Unknown",
+        "time": "21:00",
+        "is_live": false,
+        "member": "さくらみこ",
+        "url": "https://www.youtube.com/watch?v=ccCLBKK4O7g",
+        "thumbnail": "https://img.youtube.com/vi/ccCLBKK4O7g/mqdefault.jpg",
+        "platform": "youtube",
+        "title": "【ホロドリ】水着ホロメン全員集めるまで終われない⁉にぇええええええええ！！！！！【ホロライブ/さくらみこ】"
+      },
+      {
+        "date": "Unknown",
+        "time": "22:00",
+        "is_live": false,
+        "member": "AZKi",
+        "url": "https://www.youtube.com/watch?v=A8wNRxkZGdc",
+        "thumbnail": "https://img.youtube.com/vi/A8wNRxkZGdc/mqdefault.jpg",
+        "platform": "youtube",
+        "title": "【BOMBANANA!】見ざる！聞かざる！言わざる！3人の絆で爆弾解除💣️#あずらみころ【ホロライブ / AZKi】"
+      },
+      {
+        "date": "Unknown",
+        "time": "22:00",
+        "is_live": false,
+        "member": "雪花ラミィ",
+        "url": "https://www.youtube.com/watch?v=SEuGEowBpCA",
+        "thumbnail": "https://img.youtube.com/vi/SEuGEowBpCA/mqdefault.jpg",
+        "platform": "youtube",
+        "title": "【BOMBANANA!】３人の絆を見せる時が来た！！【雪花ラミィ /ホロライブ】"
+      },
+      {
+        "date": "Unknown",
+        "time": "22:30",
+        "is_live": false,
+        "member": "Kaela",
+        "url": "https://www.youtube.com/watch?v=wSygVVm3ke4",
+        "thumbnail": "https://img.youtube.com/vi/wSygVVm3ke4/mqdefault.jpg",
+        "platform": "youtube",
+        "title": "【BOMBANANA!】trusting Kaeluarga that we can reach wave 30th in Endless Mode!!!!!!!!"
+      },
+      {
+        "date": "Unknown",
+        "time": "23:00",
+        "is_live": false,
+        "member": "大神ミオ",
+        "url": "https://www.youtube.com/watch?v=3b1W_NGeIgs",
+        "thumbnail": "https://img.youtube.com/vi/3b1W_NGeIgs/mqdefault.jpg",
+        "platform": "youtube",
+        "title": "【雑談】のど温存大きい声を出さない深夜向き雑談タイム【ホロライブ/大神ミオ】"
+      },
+      {
+        "date": "Unknown",
+        "time": "23:00",
+        "is_live": false,
+        "member": "Raora",
+        "url": "https://www.youtube.com/watch?v=UkXxf6M0b6w",
+        "thumbnail": "https://img.youtube.com/vi/UkXxf6M0b6w/mqdefault.jpg",
+        "platform": "youtube",
+        "title": "【UNDERTALE】we are back into the abyss【pacifist run】"
+      },
+      {
+        "date": "Unknown",
+        "time": "01:45",
+        "is_live": false,
+        "member": "鷹嶺ルイ",
+        "url": "https://www.youtube.com/watch?v=zY4xF3Q3i9E",
+        "thumbnail": "https://img.youtube.com/vi/zY4xF3Q3i9E/mqdefault.jpg",
+        "platform": "youtube",
+        "title": "【 同時視聴 】特別動画あり‼『コードギアス 奪還のロゼ』第11話を一緒にみよ～！【鷹嶺ルイ/ホロライブ】"
+      },
+      {
+        "date": "Unknown",
+        "time": "00:00",
+        "is_live": false,
+        "member": "Kiara",
+        "url": "https://www.youtube.com/watch?v=hWtX2a2sBqs",
+        "thumbnail": "https://img.youtube.com/vi/hWtX2a2sBqs/mqdefault.jpg",
+        "platform": "youtube",
+        "title": "【Star Fox Adventures】MY CHILDHOOD #kfp #キアライブ"
+      },
+      {
+        "date": "Unknown",
+        "time": "10:00",
+        "is_live": false,
+        "member": "Flayon",
+        "url": "https://www.youtube.com/watch?v=ec40ZdKyr58",
+        "thumbnail": "https://img.youtube.com/vi/ec40ZdKyr58/mqdefault.jpg",
+        "platform": "youtube",
+        "title": "Zohar Mental Illness?! WHAT !!! 🤯🤯【UNDER NIGHT IN BIRTH II】"
+      },
+      {
+        "date": "Unknown",
+        "time": "11:00",
+        "is_live": false,
+        "member": "博衣こより",
+        "url": "https://www.youtube.com/watch?v=0-u7-lkE5r4",
+        "thumbnail": "https://img.youtube.com/vi/0-u7-lkE5r4/mqdefault.jpg",
+        "platform": "youtube",
+        "title": "【空の軌跡 the 1st】完全初見！みんなの圧倒的オススメゲーム、空の軌跡やってみる！！第3章でティータちゃんに夢中なう！ #7 【博衣こより/ホロライブ】※ネタバレを含みます"
+      },
+      {
+        "date": "Unknown",
+        "time": "13:00",
+        "is_live": false,
+        "member": "ACHRORA",
+        "url": "https://www.youtube.com/watch?v=qbTtgbioPzA",
+        "thumbnail": "https://img.youtube.com/vi/qbTtgbioPzA/mqdefault.jpg",
+        "platform": "youtube",
+        "title": "【ポケモンサファイア #4】岩ポケ縛り！新たな岩(なかま)と共にフエンジム挑戦🔥‼️🪨🪨🪨#琉海垣りらら #りららだいびんぐ"
+      },
+      {
+        "date": "Unknown",
+        "time": "12:00",
+        "is_live": false,
+        "member": "鷹嶺ルイ",
+        "url": "https://www.youtube.com/watch?v=bWDg4MOeqoQ",
+        "thumbnail": "https://img.youtube.com/vi/bWDg4MOeqoQ/mqdefault.jpg",
+        "platform": "youtube",
+        "title": "【 ドラゴンクエスト ビルダーズ 】1度目のボスくるか・・・！？【鷹嶺ルイ/ホロライブ】ネタバレあり"
+      },
+      {
+        "date": "Unknown",
+        "time": "10:00",
+        "is_live": false,
+        "member": "大空スバル",
+        "url": "https://www.youtube.com/watch?v=_Wfsik30eNM",
+        "thumbnail": "https://img.youtube.com/vi/_Wfsik30eNM/mqdefault.jpg",
+        "platform": "youtube",
+        "title": "【#生スバル】おはすば！：FREE TALK【ホロライブ/大空スバル】"
+      },
+      {
+        "date": "Unknown",
+        "time": "13:00",
+        "is_live": false,
+        "member": "大空スバル",
+        "url": "https://www.youtube.com/watch?v=rIelB0Sfljw",
+        "thumbnail": "https://img.youtube.com/vi/rIelB0Sfljw/mqdefault.jpg",
+        "platform": "youtube",
+        "title": "【#15】ドラゴンボールｚカカロット そして10年後！やるしゅばあああああああああああああああああああああああああああ！！！！！！【ホロライブ/大空スバル】"
+      },
+      {
+        "date": "Unknown",
+        "time": "13:00",
+        "is_live": false,
+        "member": "Jurard",
+        "url": "https://www.youtube.com/watch?v=qSTflZ_Jyds",
+        "thumbnail": "https://img.youtube.com/vi/qSTflZ_Jyds/mqdefault.jpg",
+        "platform": "youtube",
+        "title": "【WUTHERING WAVES】A BRAND NEW START"
+      },
+      {
+        "date": "Unknown",
+        "time": "04:30",
+        "is_live": false,
+        "member": "鷹嶺ルイ",
+        "url": "https://www.youtube.com/watch?v=qUcdLZOxVIk",
+        "thumbnail": "https://img.youtube.com/vi/qUcdLZOxVIk/mqdefault.jpg",
+        "platform": "youtube",
+        "title": "【 ジョッキークラブゴールドカップ 】フォーエバーヤング全力応援！！！！！！【鷹嶺ルイ/ホロライブ】"
+      },
+      {
+        "date": "Unknown",
+        "time": "17:00",
+        "is_live": false,
+        "member": "Kronii",
+        "url": "https://www.youtube.com/watch?v=BJlrQP3hjj0",
+        "thumbnail": "https://img.youtube.com/vi/BJlrQP3hjj0/mqdefault.jpg",
+        "platform": "youtube",
+        "title": "[Girls' Frontline 2: Exilium] Hey… You Come Around Here Often? (with rizz) #sponsored"
+      },
+      {
+        "date": "Unknown",
+        "time": "13:00",
+        "is_live": false,
+        "member": "大神ミオ",
+        "url": "https://www.youtube.com/watch?v=7ZpdeFdbs5c",
+        "thumbnail": "https://img.youtube.com/vi/7ZpdeFdbs5c/mqdefault.jpg",
+        "platform": "youtube",
+        "title": "【 #ホロ甲2026 】群馬県わおーん高校🐺夏の甲子園3回戦目から！【 ホロライブ / 大神ミオ 】"
+      },
+      {
+        "date": "Unknown",
+        "time": "19:00",
+        "is_live": false,
+        "member": "赤井はあと",
+        "url": "https://www.youtube.com/watch?v=JopgqurdtaU",
+        "thumbnail": "https://img.youtube.com/vi/JopgqurdtaU/mqdefault.jpg",
+        "platform": "youtube",
+        "title": "IRIS OUT／赤井はあと×角巻わため(cover)【米津玄師】"
+      },
+      {
+        "date": "Unknown",
+        "time": "20:00",
+        "is_live": false,
+        "member": "獅白ぼたん",
+        "url": "https://www.youtube.com/watch?v=b6H54qq6c0A",
+        "thumbnail": "https://img.youtube.com/vi/b6H54qq6c0A/mqdefault.jpg",
+        "platform": "youtube",
+        "title": "？？？（ 獅白ぼたん ）"
+      },
+      {
+        "date": "Unknown",
+        "time": "18:00",
+        "is_live": false,
+        "member": "音乃瀬奏",
+        "url": "https://www.youtube.com/watch?v=o4SH9mJRIwU",
+        "thumbnail": "https://img.youtube.com/vi/o4SH9mJRIwU/mqdefault.jpg",
+        "platform": "youtube",
+        "title": "「Surges」 - 音乃瀬奏（cover）"
+      },
+      {
+        "date": "Unknown",
+        "time": "19:00",
+        "is_live": false,
+        "member": "獅白ぼたん",
+        "url": "https://www.youtube.com/watch?v=cI535pJp-TQ",
+        "thumbnail": "https://img.youtube.com/vi/cI535pJp-TQ/mqdefault.jpg",
+        "platform": "youtube",
+        "title": "【 #獅白ぼたん生誕祭2026 】重大告知あります！獅白ぼたん生誕3D LIVE✨『Stray&Stay』【獅白ぼたん/ホロライブ】"
+      },
+      {
+        "date": "Unknown",
+        "time": "21:00",
+        "is_live": false,
+        "member": "大空スバル",
+        "url": "https://www.youtube.com/watch?v=SwYIcBAPHro",
+        "thumbnail": "https://img.youtube.com/vi/SwYIcBAPHro/mqdefault.jpg",
+        "platform": "youtube",
+        "title": "【最終日】ゾンビの世界を生き抜くしゅばああああああああああああああああああああああああああああああ！！！！！！：7Days to Die【ホロライブ/大空スバル】"
+      },
+      {
+        "date": "Unknown",
+        "time": "20:00",
+        "is_live": false,
+        "member": "UNIT B",
+        "url": "https://www.youtube.com/watch?v=yfTK2g1aJCo",
+        "thumbnail": "https://img.youtube.com/vi/yfTK2g1aJCo/mqdefault.jpg",
+        "platform": "youtube",
+        "title": "【Day2】ゾンビしかいない！！7Days to Dieの世界をサバイバル！！【 #UNIT_B 】"
+      },
+      {
+        "date": "Unknown",
+        "time": "20:15",
+        "is_live": false,
+        "member": "獅白ぼたん",
+        "url": "https://www.youtube.com/watch?v=djCdK9dYO0o",
+        "thumbnail": "https://img.youtube.com/vi/djCdK9dYO0o/mqdefault.jpg",
+        "platform": "youtube",
+        "title": "【3DLIVE / Member Only】メンバーシップ限定ミニライブ✨ 『Stray&Stay』【#獅白ぼたん生誕祭2026 /ホロライブ】"
+      }
+    ]
+  }
+}
