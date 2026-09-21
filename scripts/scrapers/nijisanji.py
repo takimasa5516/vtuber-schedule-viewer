@@ -39,8 +39,9 @@ class NijisanjiScraper(BaseScraper):
                         date_str = dt.strftime("%Y/%m/%d")
 
                     # Live status
-                    status = stream.get('status', '')
-                    is_live = (status.lower() == 'on_air')
+                    status = (stream.get('status') or '').lower()
+                    is_live = status in ('on_air', 'live', 'in_progress')
+
                     
                     # Extract Member Name
                     channel_info = stream.get('channel') or stream.get('youtube-channel') or {}

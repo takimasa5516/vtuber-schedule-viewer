@@ -47,18 +47,30 @@ export default function App() {
     });
   };
 
+  const [refreshToast, setRefreshToast] = useState<string | null>(null);
+
   // データ取得関数
-  const fetchData = async () => {
+  const fetchData = async (isManual = false) => {
     setLoading(true);
     setError(null);
     try {
-      // キャッシュバスターを付与
-      const res = await fetch(`./data/schedule.json?_t=${Date.now()}`);
+      // キャッシュバスターと no-store でブラウザ・CDNのキャッシュを完全バイパス
+      const res = await fetch(`./data/schedule.json?_t=${Date.now()}`, {
+        cache: 'no-store',
+        headers: {
+          'Cache-Control': 'no-cache, no-store, must-revalidate',
+          'Pragma': 'no-cache'
+        }
+      });
       if (!res.ok) {
         throw new Error(`HTTP Error: ${res.status}`);
       }
       const json: SchedulePayload = await res.json();
       setData(json);
+      if (isManual) {
+        setRefreshToast(`データを最新化しました (${json.counts?.total || 0}件)`);
+        setTimeout(() => setRefreshToast(null), 3000);
+      }
     } catch (err: any) {
       console.error(err);
       setError('スケジュールの取得に失敗しました。時間をおいて再読み込みしてください。');
@@ -166,8 +178,31 @@ export default function App() {
     else setAutoRefreshInterval(0);
   };
 
+  // データの鮮度判定
+  const dataFreshness = useMemo(() => {
+    if (!data || !data.updated_at) return null;
+    const updatedTime = new Date(data.updated_at).getTime();
+    const now = Date.now();
+    const diffMinutes = Math.max(0, Math.floor((now - updatedTime) / (1000 * 60)));
+    if (diffMinutes < 20) {
+      return { status: 'fresh', text: '同期中 (最新)', color: 'text-emerald-400 bg-emerald-950/60 border-emerald-500/40' };
+    } else if (diffMinutes < 45) {
+      return { status: 'normal', text: `${diffMinutes}分前`, color: 'text-cyan-300 bg-cyan-950/60 border-cyan-500/40' };
+    } else {
+      return { status: 'delayed', text: `${diffMinutes}分前 (更新待ち)`, color: 'text-amber-400 bg-amber-950/60 border-amber-500/40' };
+    }
+  }, [data]);
+
   return (
-    <div className="min-h-screen bg-[#121212] text-gray-100 flex flex-col pb-12">
+    <div className="min-h-screen bg-[#121212] text-gray-100 flex flex-col pb-12 relative">
+      {/* Toast Notification */}
+      {refreshToast && (
+        <div className="fixed top-16 left-1/2 -translate-x-1/2 z-50 bg-cyan-600 text-white text-xs font-semibold px-4 py-2 rounded-full shadow-lg border border-cyan-400 flex items-center gap-2 animate-bounce">
+          <RefreshCw className="w-3.5 h-3.5 animate-spin" />
+          {refreshToast}
+        </div>
+      )}
+
       {/* Top App Bar (Sticky) */}
       <header className="sticky top-0 z-40 bg-[#1A1A1A]/95 backdrop-blur border-b border-zinc-800 shadow-md">
         <div className="max-w-4xl mx-auto px-4 py-3 flex items-center justify-between gap-3">
@@ -180,10 +215,17 @@ export default function App() {
                   Web V2.5
                 </span>
               </h1>
-              <p className="text-[11px] text-zinc-400 flex items-center gap-1.5">
-                <Clock className="w-3 h-3 text-zinc-500" />
-                {data ? `更新: ${data.updated_at_display}` : 'データ読み込み中...'}
-              </p>
+              <div className="flex items-center gap-2 mt-0.5">
+                <p className="text-[11px] text-zinc-400 flex items-center gap-1.5">
+                  <Clock className="w-3 h-3 text-zinc-500" />
+                  {data ? `更新: ${data.updated_at_display}` : 'データ読み込み中...'}
+                </p>
+                {dataFreshness && (
+                  <span className={`text-[10px] px-1.5 py-0.2 rounded border font-semibold ${dataFreshness.color}`}>
+                    {dataFreshness.text}
+                  </span>
+                )}
+              </div>
             </div>
           </div>
 
@@ -207,7 +249,7 @@ export default function App() {
 
             {/* Manual Refresh */}
             <button
-              onClick={fetchData}
+              onClick={() => fetchData(true)}
               disabled={loading}
               className="p-2 rounded-lg bg-pink-600 hover:bg-pink-500 active:bg-pink-700 text-white transition-all disabled:opacity-50"
               title="今すぐ再読み込み"
@@ -304,7 +346,7 @@ export default function App() {
           <div className="bg-red-950/50 border border-red-800 text-red-200 p-4 rounded-xl mb-4 text-sm flex items-center justify-between">
             <span>{error}</span>
             <button 
-              onClick={fetchData} 
+              onClick={() => fetchData(true)} 
               className="text-xs underline ml-4 hover:text-white"
             >
               再試行

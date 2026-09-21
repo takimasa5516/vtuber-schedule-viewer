@@ -89,7 +89,9 @@ class VspoScraper(BaseScraper):
                          date_str = dt_jst.strftime("%Y/%m/%d")
 
                     # Live status
-                    is_live = (stream.get('status') == 'live')
+                    status = (stream.get('status') or '').lower()
+                    is_live = status in ('live', 'on_air')
+
                     
                     platform = stream.get('platform', '')
                     if not platform:

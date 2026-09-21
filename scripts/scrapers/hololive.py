@@ -92,11 +92,17 @@ class HololiveScraper(BaseScraper):
                                     thumbnail = f"https://i.ytimg.com/vi/{m_id.group(1)}/mqdefault.jpg"
                             
                             # Live Status Check
-                            # Hololive adds a red border style `border: 3px solid red` to live items
+                            # Hololive adds a red border style (e.g. `border: 3px red solid;` or `border: 3px solid red`)
                             style = a.get('style', '')
+                            classes = a.get('class', [])
                             is_live = False
-                            if 'border' in style.lower() and ('red' in style.lower() or '3px' in style.lower()):
+                            
+                            # Check inline style for red border
+                            if re.search(r'border\s*:[^;]*(?:red|#f00|#ff0000|rgb\(\s*255\s*,\s*0\s*,\s*0\s*\)|3px)', style, re.IGNORECASE):
                                 is_live = True
+                            elif 'live' in [c.lower() for c in classes]:
+                                is_live = True
+
 
                             platform = 'twitch' if 'twitch.tv' in href else 'youtube'
                             raw_items.append({
