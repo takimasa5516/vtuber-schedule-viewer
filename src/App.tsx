@@ -14,6 +14,7 @@ import {
 import { fetchLiveHololiveSchedule } from './services/hololiveApi';
 
 const FAVORITES_KEY = 'vsc_vtuber_favorites';
+const AUTO_REFRESH_KEY = 'vsc_vtuber_auto_refresh';
 
 export default function App() {
   const [data, setData] = useState<SchedulePayload | null>(null);
@@ -31,7 +32,14 @@ export default function App() {
       return [];
     }
   });
-  const [autoRefreshInterval, setAutoRefreshInterval] = useState<number>(0); // 0 = OFF, 180 = 3m, 300 = 5m
+  const [autoRefreshInterval, setAutoRefreshInterval] = useState<number>(() => {
+    try {
+      const saved = localStorage.getItem(AUTO_REFRESH_KEY);
+      return saved !== null ? parseInt(saved, 10) : 0;
+    } catch {
+      return 0;
+    }
+  }); // 0 = OFF, 60 = 1m, 180 = 3m, 300 = 5m
 
   // お気に入りの保存
   const toggleFavorite = (memberName: string, e?: React.MouseEvent) => {
@@ -53,7 +61,7 @@ export default function App() {
   const [hololiveRealtimeLive, setHololiveRealtimeLive] = useState<boolean>(false);
 
   // データ取得関数
-  const fetchData = async (isManual = false) => {
+  const fetchData = async (triggerType: 'initial' | 'manual' | 'auto' = 'initial') => {
     setLoading(true);
     setError(null);
     try {
@@ -93,9 +101,12 @@ export default function App() {
       }
 
       setData(json);
-      if (isManual) {
-        setRefreshToast(`データを最新化しました (${json.counts?.total || 0}件)`);
+      if (triggerType === 'manual') {
+        setRefreshToast(`手動更新を完了しました (${json.counts?.total || 0}件)`);
         setTimeout(() => setRefreshToast(null), 3000);
+      } else if (triggerType === 'auto') {
+        setRefreshToast(`自動同期を実行しました (${json.counts?.total || 0}件)`);
+        setTimeout(() => setRefreshToast(null), 2500);
       }
     } catch (err: any) {
       console.error(err);
@@ -106,14 +117,14 @@ export default function App() {
   };
 
   useEffect(() => {
-    fetchData();
+    fetchData('initial');
   }, []);
 
   // 自動更新タイマー
   useEffect(() => {
     if (autoRefreshInterval <= 0) return;
     const timer = setInterval(() => {
-      fetchData();
+      fetchData('auto');
     }, autoRefreshInterval * 1000);
     return () => clearInterval(timer);
   }, [autoRefreshInterval]);
@@ -197,11 +208,22 @@ export default function App() {
     { key: 'favorites', label: '★ Favorites', count: favorites.length },
   ];
 
-  // 自動更新ボタントグル
+  // 自動更新ボタントグル (OFF -> 1分 -> 3分 -> 5分 -> OFF)
   const toggleAutoRefresh = () => {
-    if (autoRefreshInterval === 0) setAutoRefreshInterval(180);
-    else if (autoRefreshInterval === 180) setAutoRefreshInterval(300);
-    else setAutoRefreshInterval(0);
+    setAutoRefreshInterval(prev => {
+      let next = 0;
+      if (prev === 0) next = 60; // 1分
+      else if (prev === 60) next = 180; // 3分
+      else if (prev === 180) next = 300; // 5分
+      else next = 0; // OFF
+
+      try {
+        localStorage.setItem(AUTO_REFRESH_KEY, String(next));
+      } catch (err) {
+        console.error('Failed to save auto-refresh setting', err);
+      }
+      return next;
+    });
   };
 
   // データの鮮度判定
@@ -266,13 +288,15 @@ export default function App() {
             <button
               onClick={toggleAutoRefresh}
               className={`text-xs px-2.5 py-1.5 rounded-lg border font-medium transition-all flex items-center gap-1.5 ${
-                autoRefreshInterval === 180
+                autoRefreshInterval === 60
+                  ? 'bg-amber-950/60 text-amber-300 border-amber-500/50'
+                  : autoRefreshInterval === 180
                   ? 'bg-cyan-950/60 text-cyan-300 border-cyan-500/50'
                   : autoRefreshInterval === 300
                   ? 'bg-emerald-950/60 text-emerald-300 border-emerald-500/50'
                   : 'bg-zinc-800 text-zinc-400 border-zinc-700 hover:text-zinc-200'
               }`}
-              title="自動更新間隔の切り替え"
+              title="自動更新間隔の切り替え (OFF / 1分 / 3分 / 5分)"
             >
               <RefreshCw className={`w-3.5 h-3.5 ${autoRefreshInterval > 0 ? 'animate-spin' : ''}`} />
               <span className="hidden sm:inline">自動更新: </span>
@@ -281,7 +305,7 @@ export default function App() {
 
             {/* Manual Refresh */}
             <button
-              onClick={() => fetchData(true)}
+              onClick={() => fetchData('manual')}
               disabled={loading}
               className="p-2 rounded-lg bg-pink-600 hover:bg-pink-500 active:bg-pink-700 text-white transition-all disabled:opacity-50"
               title="今すぐ再読み込み"
@@ -378,7 +402,7 @@ export default function App() {
           <div className="bg-red-950/50 border border-red-800 text-red-200 p-4 rounded-xl mb-4 text-sm flex items-center justify-between">
             <span>{error}</span>
             <button 
-              onClick={() => fetchData(true)} 
+              onClick={() => fetchData('manual')} 
               className="text-xs underline ml-4 hover:text-white"
             >
               再試行
