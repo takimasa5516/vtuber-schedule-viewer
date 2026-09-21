@@ -4,8 +4,8 @@ on:
   push:
     branches: [ main, master ]
   schedule:
-    # 混雑（0分・30分）を回避し、15分間隔（毎時 08分, 23分, 38分, 53分 UTC）で自動更新
-    - cron: '8,23,38,53 * * * *'
+    # 20分間隔で定期自動スクレイピング＆デプロイ
+    - cron: '*/20 * * * *'
   workflow_dispatch:
 
 permissions:

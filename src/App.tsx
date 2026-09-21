@@ -8,8 +8,10 @@ import {
   Tv, 
   Calendar, 
   Radio, 
-  Clock
+  Clock,
+  Zap
 } from 'lucide-react';
+import { fetchLiveHololiveSchedule } from './services/hololiveApi';
 
 const FAVORITES_KEY = 'vsc_vtuber_favorites';
 
@@ -48,13 +50,14 @@ export default function App() {
   };
 
   const [refreshToast, setRefreshToast] = useState<string | null>(null);
+  const [hololiveRealtimeLive, setHololiveRealtimeLive] = useState<boolean>(false);
 
   // データ取得関数
   const fetchData = async (isManual = false) => {
     setLoading(true);
     setError(null);
     try {
-      // キャッシュバスターと no-store でブラウザ・CDNのキャッシュを完全バイパス
+      // 1. 静的 schedule.json を取得 (キャッシュ無効化)
       const res = await fetch(`./data/schedule.json?_t=${Date.now()}`, {
         cache: 'no-store',
         headers: {
@@ -65,7 +68,30 @@ export default function App() {
       if (!res.ok) {
         throw new Error(`HTTP Error: ${res.status}`);
       }
-      const json: SchedulePayload = await res.json();
+      let json: SchedulePayload = await res.json();
+
+      // 2. ホロライブ公式API (CORS許可) をブラウザから直接取得してリアルタイム最新化
+      try {
+        const liveHoloItems = await fetchLiveHololiveSchedule();
+        if (liveHoloItems && liveHoloItems.length > 0) {
+          json = {
+            ...json,
+            counts: {
+              ...json.counts,
+              hololive: liveHoloItems.length,
+              total: (json.counts?.nijisanji || 0) + (json.counts?.vspo || 0) + liveHoloItems.length
+            },
+            schedules: {
+              ...json.schedules,
+              hololive: liveHoloItems
+            }
+          };
+          setHololiveRealtimeLive(true);
+        }
+      } catch (holoErr) {
+        console.warn('Hololive direct API fetch failed, fallback to static data:', holoErr);
+      }
+
       setData(json);
       if (isManual) {
         setRefreshToast(`データを最新化しました (${json.counts?.total || 0}件)`);
@@ -223,6 +249,12 @@ export default function App() {
                 {dataFreshness && (
                   <span className={`text-[10px] px-1.5 py-0.2 rounded border font-semibold ${dataFreshness.color}`}>
                     {dataFreshness.text}
+                  </span>
+                )}
+                {hololiveRealtimeLive && (
+                  <span className="text-[10px] px-1.5 py-0.2 rounded border font-semibold text-emerald-400 bg-emerald-950/60 border-emerald-500/50 flex items-center gap-0.5" title="ホロライブ公式APIからアクセス時に最新データを直接取得しています">
+                    <Zap className="w-2.5 h-2.5 text-yellow-400" />
+                    ホロライブ直結
                   </span>
                 )}
               </div>
